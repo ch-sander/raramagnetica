@@ -8,7 +8,7 @@ Peregrinus wrote his two-part letter on the properties (part one) and applicatio
 
 For more information and bibliography see:
 
-Christoph Sander, Magnes: _der Magnetstein und der Magnetismus in den Wissenschaften der Frühen Neuzeit_, Mittellateinische Studien und Texte 53 (Leiden; Boston: Brill, 2020), 295–98, [DOI](https://doi.org/10.1163/9789004419414).
+Christoph Sander, Magnes: der Magnetstein und der Magnetismus in den Wissenschaften der Frühen Neuzeit. Mittellateinische Studien und Texte 53 (Leiden; Boston: Brill, 2020), 295–98, [DOI](https://doi.org/10.1163/9789004419414).
 
 This image database includes all this material and even includes marginal drawings in the printed editions.
 
