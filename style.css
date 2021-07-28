@@ -22,6 +22,7 @@ h4 {text-transform:lowercase; font-size:14px;}
 #footer a {color:var(--me-color);}
 #margin p::before{content: "▸"; color: var(--me-color);}
 #margin p { margin-top: 0.6em; margin-bottom: 0.6em; margin-left: 3em;}
+
 summary::-webkit-details-marker {
   display: none
 }
@@ -34,6 +35,9 @@ summary::marker {
   color: var(--me-color);
   font-size: 0.8em;
   transition: all 0.5s;  
+}
+summary:hover {
+  color: var(--me-color);  
 }
 details[open] summary {
 color: var(--me-color);
