@@ -10,8 +10,8 @@ h3 {text-transform:lowercase; font-size:18px;}
 h3::before{content: "_"; color: var(--me-color);}
 h4 {text-transform:lowercase; font-size:14px;}
 h5 {text-transform:lowercase; font-size:16px; margin-top: 6px; font-weight:bold;}
-h5::before{content: "::"; color: var(--me-color);}
-h5::after{content: "::"; color: var(--me-color);}
+/* h5::before{content: "::"; color: var(--me-color);}
+h5::after{content: "::"; color: var(--me-color);} */
 #all {width:1000px; margin:0 auto; background: #F2F2F2;}
 #logo {padding:60px 0 0 100px; height:80px; margin-top: 1em;}
 #logo a {color:var(--me-color); text-decoration:none; font-weight:bold; font-size:24px; text-transform:uppercase;}
