@@ -21,7 +21,7 @@ h5::after{content: "::"; color: var(--me-color);}
 #menu a {font-size:14px; text-decoration:none; color:var(--me-color); padding:5px 10px; text-transform:lowercase;}
 #menu a:hover {border-bottom:2px solid var(--me-color);}
 #main {padding:0 100px; min-height:500px;}
-#footer {text-align:right; padding:80px 100px; color:var(--me-color); font-size:11px;}
+#footer {text-align:right; padding:50px 100px; color:var(--me-color); font-size:11px; margin-bottom: 1em;}
 #footer a {color:var(--me-color);}
 #margin p::before{content: "▸"; color: var(--me-color);}
 #margin p { margin-top: 0.6em; margin-bottom: 0.6em; margin-left: 3em;}
