@@ -1,6 +1,7 @@
 :root {
   --me-color: #FF00FF;
 }
+@import url('https://www.fonts.com/de/font/microsoft-corporation/calibri?QueryFontType=Web&src=GoogleWebFonts');
 body {margin:0; font-size:14px; line-height:18px; font-family:Calibri; background: #8d8d8d; color:#000000;text-transform:lowercase;}
 a {color:var(--me-color);text-decoration:none;}
 a:hover {text-decoration:underline;}
