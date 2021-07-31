@@ -1,8 +1,11 @@
 :root {
   --me-color: #FF00FF;
 }
-@import url('https://www.fonts.com/de/font/microsoft-corporation/calibri?QueryFontType=Web&src=GoogleWebFonts');
-body {margin:0; font-size:14px; line-height:18px; font-family:Calibri; background: #8d8d8d; color:#000000;text-transform:lowercase;}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+body {margin:0; font-size:13px; font-style:normal; line-height:18px; font-family:'Source Sans Pro', sans-serif; background: #8d8d8d; color:#000000;text-transform:lowercase;}
 a {color:var(--me-color);text-decoration:none;}
 a:hover {text-decoration:underline;}
 h1 {text-transform:uppercase; font-size:30px;}
