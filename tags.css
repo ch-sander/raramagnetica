@@ -26,7 +26,7 @@ h3::before{content: "_"; color: var(--me-color);}
 		  text-align: left;
 		  border-bottom: 1px solid #ddd;
 		}
-		tr:hover {background-color: #fff;}
+		
 		 
 		th {
 		  border-bottom: 1px solid var(--me-color);
