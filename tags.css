@@ -14,8 +14,7 @@ h3::before{content: "_"; color: var(--me-color);}
 		  text-align: left;
 		  border-collapse: collapse;
 		  border: 1px solid var(--me-color);
-		  height: 500px; 
-		  table-layout: fixed;
+		  height: 500px; 		  
 		}
 		 
 		tr:nth-child(even) {
@@ -31,7 +30,8 @@ h3::before{content: "_"; color: var(--me-color);}
 		 
 		th {
 		  border-bottom: 1px solid var(--me-color);
-		  font-style:bold; 
+		  font-style:bold;
+		  font-size: 16px;
 		}
 		tr td:first-child { 
 		font-style:italic;
