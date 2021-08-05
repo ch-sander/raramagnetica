@@ -55,7 +55,7 @@ color: var(--me-color);
 		  text-align: left;
 		  border-collapse: collapse;
 		  border: 1px solid var(--me-color);
-		  height: 500px; 
+		  height: 200px; 
 		}
 		 
 		tr:nth-child(even) {
