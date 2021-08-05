@@ -31,3 +31,6 @@ body {margin:0; font-size:13px; font-style:normal; line-height:18px; font-family
 		  border-bottom: 1px solid var(--me-color);
 		  font-style:bold; 
 		}
+		tr td:nth-child(1n + 2){
+		font-style:italic;
+		}
