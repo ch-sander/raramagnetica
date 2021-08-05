@@ -1,0 +1,71 @@
+:root {
+  --me-color: #FF00FF;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+body {margin:0; font-size:13px; font-style:normal; line-height:18px; font-family:'Source Sans Pro', sans-serif; background: #8d8d8d; color:#000000;text-transform:lowercase;}
+a {color:var(--me-color);text-decoration:none;}
+a:hover {text-decoration:underline;}
+h1 {text-transform:uppercase; font-size:30px;}
+h2 {text-transform:lowercase; font-size:16px;}
+h3 {text-transform:lowercase; font-size:16px;}
+h3::before{content: "_"; color: var(--me-color);}
+h4 {text-transform:lowercase; font-size:12px;}
+h5 {text-transform:lowercase; font-size:14px; margin-top: 6px; font-weight:bold;}
+/* h5::before{content: "::"; color: var(--me-color);}
+h5::after{content: "::"; color: var(--me-color);} */
+#all {width:1000px; margin:0 auto; background: #F2F2F2;}
+#logo {padding:60px 0 0 100px; height:80px; margin-top: 1em;}
+#logo a {color:var(--me-color); text-decoration:none; font-weight:bold; font-size:28px; text-transform:lowercase;}
+#menu {padding:40px 135px 0 0; float:right;}
+#menu ul {margin-top:0;}
+#menu ul li {display:inline;}
+#menu a {font-size:13px; text-decoration:none; color:var(--me-color); padding:5px 10px; text-transform:lowercase;}
+#menu a:hover {border-bottom:2px solid var(--me-color);}
+#main {padding:0 100px; min-height:500px;}
+#footer {text-align:right; padding:50px 100px; color:var(--me-color); font-size:11px; margin-bottom: 1em;}
+#footer a {color:var(--me-color);}
+#margin p::before{content: "▸"; color: var(--me-color);}
+#margin p { margin-top: 0.6em; margin-bottom: 0.6em; margin-left: 3em;}
+
+summary::-webkit-details-marker {
+  display: none
+}
+
+details {
+    margin-left: 1em;
+}
+summary::marker {
+  content:  " 🡳 ";
+  color: var(--me-color);
+  font-size: 0.7em;
+  transition: all 0.5s;  
+}
+summary:hover {
+  color: var(--me-color);  
+}
+details[open] summary {
+color: var(--me-color);
+}
+
+		table {
+		  margin: 0 auto;
+		  text-align: left;
+		  border-collapse: collapse;
+		  border: 1px solid var(--me-color);
+		  height: 500px; 
+		}
+		 
+		tr:nth-child(even) {
+		  background: #d4d4d4;
+		}
+		 
+		th, td {
+		  padding: 10px 30px;
+		}
+		 
+		th {
+		  border-bottom: 1px solid var(--me-color);
+		}
