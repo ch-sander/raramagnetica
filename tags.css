@@ -9,7 +9,7 @@ body {margin:0; font-size:13px; font-style:normal; line-height:18px; font-family
 
 		table {
 		  margin: 0 auto;
-		  width: 80%;
+		  width: 100%;
 		  text-align: left;
 		  border-collapse: collapse;
 		  border: 1px solid var(--me-color);
