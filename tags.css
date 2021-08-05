@@ -33,7 +33,7 @@ h3::before{content: "_"; color: var(--me-color);}
 		  border-bottom: 1px solid var(--me-color);
 		  font-style:bold; 
 		}
-		tr td:nth-child(1n + 2){
+		tr td:first-child { 
 		font-style:italic;
 		width: 30%;
 		}
