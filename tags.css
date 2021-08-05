@@ -35,6 +35,6 @@ h3::before{content: "_"; color: var(--me-color);}
 		}
 		tr td:first-child { 
 		font-style:italic;
-		width: 30%;
+		width: 40%;
 		}
 		
