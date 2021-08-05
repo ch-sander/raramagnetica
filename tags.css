@@ -1,7 +1,7 @@
 :root {
   --me-color: #FF00FF;
 }
-
+/* @import "style.css"*/
 
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
 
@@ -24,7 +24,7 @@ h5::after{content: "::"; color: var(--me-color);} */
 #menu ul li {display:inline;}
 #menu a {font-size:13px; text-decoration:none; color:var(--me-color); padding:5px 10px; text-transform:lowercase;}
 #menu a:hover {border-bottom:2px solid var(--me-color);}
-#main {padding:0 100px; min-height:500px;}
+#main {padding:0 100px; }
 #footer {text-align:right; padding:50px 100px; color:var(--me-color); font-size:11px; margin-bottom: 1em;}
 #footer a {color:var(--me-color);}
 #margin p::before{content: "▸"; color: var(--me-color);}
