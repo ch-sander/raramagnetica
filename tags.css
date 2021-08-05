@@ -10,7 +10,7 @@ h3::before{content: "_"; color: var(--me-color);}
 
 		table {
 		  margin: 0 auto;
-		  width: 100%;
+		  width: 80%;
 		  text-align: left;
 		  border-collapse: collapse;
 		  border: 1px solid var(--me-color);
