@@ -1,134 +1,200 @@
-
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<title></title>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href="favicon.ico" />
+    <title>Images in Petrus Peregrinus' Epistola de magnete</title>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui"
+    />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="pinterest" content="nohover" />
+    <base target="_blank" />
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/infobar.css" />
+    <link rel="stylesheet" href="css/timeline.css" />
 
-</head>
+    <script src="js/d3.v3.min.js"></script>
+    <script src="js/vue.min.js"></script>
+    <script src="js/marked.min.js"></script>
+    <script src="js/lodash.min.js"></script>
+    <script src="js/pixi.min.js"></script>
+    <script src="js/pixi-packer-parser.js"></script>
+    <script src="js/loader.js"></script>
+    <script src="js/canvas.js"></script>
+    <script src="js/timeline.js"></script>
+    <script src="js/search.js"></script>
+    <script src="js/tags.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/modernizr-custom.js"></script>
+    <!--[if lt IE 9]>
+      <script
+        src="http://html5shiv.googlecode.com/svn/trunk/html5.js"
+        type="text/javascript"
+      ></script>
+    <![endif]-->
 
-<style>
+    <!-- 
 
-body {
-
-	background-image: url('grunge_patterns.jpg');
-	background-attachment: fixed;
-	color: #333;
-}
-
-.box {
-	border-radius: 3px;
-	background: rgba(101, 101, 101, 0.7); margin: auto; padding: 12px;
-}
-
-.lightbox {
-	zoom: 1.5;
-	position: fixed;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	background: rgba(10, 10, 10, 0.8);
-	text-align: center;
-	margin: auto;
-
-}
-
-div.horizontal {
-	display: flex;
-	justify-content: center;
-	height: 100%;
-}
-
-div.vertical {
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	width: 100%;
-}
-
-::-webkit-input-placeholder {
-   color: #955;
-   text-align: center;
-}
-
-::-moz-placeholder {
-   color: #955;
-   text-align: center;
-}
-
-:-ms-input-placeholder {
-   color: #955;
-   text-align: center;
-}
-
-</style>
-
-<body>
-
-	<div id="loginbox" class="lightbox" >
-		<div class="horizontal">
-			<div class="vertical">
-				<div class="box">
-					<input style="margin: 16px; text-align: center;" id="password" type="password" placeholder="password" /> <br />
-					<button id="loginbutton" type="button">Enter</button>
-					<p id="wrongPassword" style="display: none">wrong password</p>
-				</div>
-			</div>
-		</div>
-	</div>
+                           ,--.                                     
+               ,---,   ,--/  /|               .--.--.               
+       ,---.,`--.' |,---,': / '         ,--, /  /    '.             
+      /__./||   :  ::   : '/ /        ,'_ /||  :  /`. /             
+ ,---.;  ; |:   |  '|   '   ,    .--. |  | :;  |  |--`              
+/___/ \  | ||   :  |'   |  /   ,'_ /| :  . ||  :  ;_                
+\   ;  \ ' |'   '  ;|   ;  ;   |  ' | |  . . \  \    `.             
+ \   \  \: ||   |  |:   '   \  |  | ' |  | |  `----.   \            
+  ;   \  ' .'   :  ;|   |    ' :  | | :  ' ;  __ \  \  |            
+   \   \   '|   |  ''   : |.  \|  ; ' |  | ' /  /`--'  /            
+    \   `  ;'   :  ||   | '_\.':  | : ;  ; |'--'.     /             
+     :   \ |;   |.' '   : |    '  :  `--'   \ `--'---'              
+      '---" '---'   ;   |,'    :  ,      .-./                       
+                    '---'       `--`----'                           
+               ,---,    ,---,.           .---.    ,---,.,-.----.    
+       ,---.,`--.' |  ,'  .' |          /. ./|  ,'  .' |\    /  \   
+      /__./||   :  :,---.'   |      .--'.  ' ;,---.'   |;   :    \  
+ ,---.;  ; |:   |  '|   |   .'     /__./ \ : ||   |   .'|   | .\ :  
+/___/ \  | ||   :  |:   :  |-, .--'.  '   \' .:   :  |-,.   : |: |  
+\   ;  \ ' |'   '  ;:   |  ;/|/___/ \ |    ' ':   |  ;/||   |  \ :  
+ \   \  \: ||   |  ||   :   .';   \  \;      :|   :   .'|   : .  /  
+  ;   \  ' .'   :  ;|   |  |-, \   ;  `      ||   |  |-,;   | |  \  
+   \   \   '|   |  ''   :  ;/|  .   \    .\  ;'   :  ;/||   | ;\  \ 
+    \   `  ;'   :  ||   |    \   \   \   ' \ ||   |    \:   ' | \.' 
+     :   \ |;   |.' |   :   .'    :   '  |--" |   :   .':   : :-'   
+      '---" '---'   |   | ,'       \   \ ;    |   | ,'  |   |.'     
+                    `----'          '---"     `----'    `---'       
+                                                                    
 
 
+christopher pietsch
+cpietsch@gmail.com
+2015-2018
 
-	<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+ --></head>
 
+  <body>
+    <div id="hiddenreload"></div>
 
-	 <script type="text/javascript" src="https://rawcdn.githack.com/chrisveness/crypto/7067ee62f18c76dd4a9d372a00e647205460b62b/sha1.js"></script>
+    <div class="browserInfo">
+      <p>
+        This visualization is not optimized for mobile phones and needs WebGL
+        enabled.
+      </p>
+      <p>Please come back on a Computer.</p>
+      <span>💡</span>
+    </div>
 
-	<script type="text/javascript">
-	"use strict";
+    <div class="search"></div>
 
+    <div class="page">
+      <div class="detailLoader"></div>
+      <div class="sideLoader"></div>
 
-	function loadPage(pwd) {
+      <div class="sidebar detail hide">
+        <div class="slidebutton"></div>
 
-		var hash= pwd;
-		hash= Sha1.hash(pwd);
-		var url= hash + "/index.html";
+        <div class="outer">
+          <div id="detail" class="inner">
+            <div class="entries" v-if="item">
+              <div v-if="item._imagenum > 1" class="entry wide pages">
+                <div class="label">Page</div>
+                <div class="content">
+                  <span
+                    v-for="i in parseInt(item._imagenum)"
+                    v-bind:key="i"
+                    v-on:click="displayPage(i-1)"
+                    v-bind:class="{ active: i === page+1, keyword: true }"
+                  >
+                    {{ i }}
+                  </span>
+                </div>
+              </div>
+              <div
+                v-for="entry in structure"
+                v-bind:key="entry.name"
+                v-bind:class="entry.display"
+                class="entry"
+                v-if="hasData(entry)"
+              >
+                <div class="label">{{ entry.name }}</div>
+                <div class="content">
+                  <span v-if="entry.type === 'keywords'">
+                    <span
+                      v-for="keyword in item[entry.source]"
+                      v-bind:key="keyword"
+                      class="keyword"
+                    >
+                      {{ keyword }}
+                    </span>
+                  </span>
+                  <span v-else-if="entry.type === 'link'">
+                    <a :href="item[entry.source]" target="_blank">Link</a>
+                  </span>
+                  <span v-else-if="entry.type === 'markdown'">
+                    <span v-html="getContent(entry)"></span>
+                  </span>
+                  <span v-else-if="entry.type === 'function'">
+                    <span v-html="getContent(entry)"></span>
+                  </span>
+                  <span v-else>
+                    {{ getContent(entry) }}
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+	<!-- 
+      <div class="navi hide">
+        <div class="time button active" data="time">time</div>
+        <div class="tsne button" data="tsne">similarity</div>
+      </div>
+	-->
+      <div class="infobar">
+        <div class="infobutton">
+          <svg width="16px" height="24px" viewBox="0 0 16 24">
+            <path
+              d="M13.6824546,2 L3.7109392,11.9715154 L13.7394238,22"
+              stroke="#FFF"
+              stroke-width="5"
+            ></path>
+          </svg>
+        </div>
 
-		$.ajax({
-			url : url,
-			dataType : "html",
-			success : function(data) {
+        <div class="outer">
+          <div class="inner">
+            <div id="infobar" class="infosidebar">
+              <span v-html="marked(info)"></span>
+              <div class="credit">
+                Powered by
+                <a href="https://vikusviewer.fh-potsdam.de/" target="_blank"
+                  >VIKUS Viewer</a
+                ><br>
+				Part of <a href="https://ch-sander.github.io/raramagnetica/" target="_blank"
+                  >Rara magnetica</a>				  
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="searchbar">
+        <input type="input" name="suche" />
+        <div class="button">
+          <div class="openbutton"></div>
+        </div>
+      </div>
+    </div>
 
-				window.location= url;
-
-			},
-			error : function(xhr, ajaxOptions, thrownError) {
-
-
-				parent.location.hash= hash;
-
-				//$("#wrongPassword").show();
-				$("#password").attr("placeholder","wrong password");
-				$("#password").val("");
-			}
-		});
-	}
-
-
-	$("#loginbutton").on("click", function() {
-		loadPage($("#password").val());
-	});
-	$("#password").keypress(function(e) {
-		if (e.which == 13) {
-
-			loadPage($("#password").val());
-		}
-	});
-	$("#password").focus();
-
-	</script>
-
-</body>
+    <script src="js/sidebars.js"></script>
+    <script src="js/viz.js"></script>
+  </body>
 </html>
