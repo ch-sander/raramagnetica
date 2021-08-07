@@ -30,4 +30,4 @@ Use your touchpad or scroll wheel to zoom into the images to see more details. C
 ### Acknowledgments
 See credits [here](https://ch-sander.github.io/raramagnetica/credits.html).
 
-If not indicated otherwise under 'credit line' in the individual items' metadata, all images are published under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) license or their use was granted by the holding institution.
+If not indicated otherwise under 'credit line' in the individual items' metadata, all images are published under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) license or their use was granted by the holding institution. Currently, not all images have permission to be published here.
