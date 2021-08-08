@@ -27,7 +27,7 @@
   "style": {
     "fontColor": "#2d3b43",
     "fontColorActive": "#FF00FF",
-    "fontBackground": "#295b71",
+    "fontBackground": "#8d8d8d",
     "textShadow": "1px 1px 0px #f8f4e9",
     "canvasBackground": "#F2F2F2",
     "timelineBackground": "#F2F2F2",
@@ -37,7 +37,7 @@
     "detailBackground": "#EEE",
     "infoBackground": "#8d8d8d",
     "infoFontColor": "#fff",
-    "searchbarBackground": "#295b71"
+    "searchbarBackground": "#8d8d8d"
   },
   "projection": {
     "columns": 5
