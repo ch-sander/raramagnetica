@@ -27,14 +27,14 @@
   "style": {
     "fontColor": "#2d3b43",
     "fontColorActive": "#FF00FF",
-    "fontBackground": "#8d8d8d",
+    "fontBackground": "#F2F2F2",
     "textShadow": "1px 1px 0px #f8f4e9",
     "canvasBackground": "#F2F2F2",
     "timelineBackground": "#F2F2F2",
     "timelineFontColor": "#000",
     "backgroundHeader": "#035151",
     "fontColorHeader": "#f8774f",
-    "detailBackground": "#EEE",
+    "detailBackground": "#F2F2F2",
     "infoBackground": "#8d8d8d",
     "infoFontColor": "#fff",
     "searchbarBackground": "#8d8d8d"
