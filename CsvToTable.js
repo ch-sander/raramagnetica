@@ -73,7 +73,7 @@
 	            } else {
 	                table += '<tr>';
 	            }
-	            var rowCells = allRows[singleRow].split(',');
+	            var rowCells = allRows[singleRow].split('	');
 	            for(var rowCell = 0; rowCell < rowCells.length; rowCell++){
 	                if(singleRow === 0){
 	                    table += '<th>';
