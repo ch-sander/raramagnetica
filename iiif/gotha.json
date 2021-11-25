@@ -20,7 +20,7 @@
         ]
       }
     },
-	{
+    {
       "label": {
         "en": [
           "title"
@@ -32,7 +32,7 @@
         ]
       }
     },
-	{
+    {
       "label": {
         "en": [
           "date"
@@ -80,7 +80,7 @@
         ]
       }
     },
-	{
+    {
       "label": {
         "en": [
           "part of"
@@ -1637,407 +1637,407 @@
                   ]
                 }
               ]
+            }
+          ]
+        },
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/12",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Kürtzliche Erleuterung etlicher Vorgaben von der Würkung des MagnetSteins nach Anleitung und gesetzten Grundstücken von Cartesio"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0011",
+              "type": "Canvas"
             },
             {
-              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/12",
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/13",
               "type": "Range",
               "label": {
                 "en": [
-                  "Kürtzliche Erleuterung etlicher Vorgaben von der Würkung des MagnetSteins nach Anleitung und gesetzten Grundstücken von Cartesio"
+                  "cap. 1"
                 ]
               },
               "items": [
                 {
                   "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0011",
                   "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/15",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[illustrations]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0013",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/17",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "cap. 2"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0015",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/21",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "cap. 3"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0019",
+                  "type": "Canvas"
                 },
                 {
-                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/13",
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/22",
                   "type": "Range",
                   "label": {
                     "en": [
-                      "cap. 1"
-                    ]
-                  },
-                  "items": [
-                    {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0011",
-                      "type": "Canvas"
-                    }
-                  ]
-                },
-                {
-                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/15",
-                  "type": "Range",
-                  "label": {
-                    "en": [
-                      "[illustrations]"
-                    ]
-                  },
-                  "items": [
-                    {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0013",
-                      "type": "Canvas"
-                    }
-                  ]
-                },
-                {
-                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/17",
-                  "type": "Range",
-                  "label": {
-                    "en": [
-                      "cap. 2"
-                    ]
-                  },
-                  "items": [
-                    {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0015",
-                      "type": "Canvas"
-                    }
-                  ]
-                },
-                {
-                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/21",
-                  "type": "Range",
-                  "label": {
-                    "en": [
-                      "cap. 3"
+                      "(1. Welches die Poli des Magnets seind, und warumb sie sich gegen die Erde kehren?)"
                     ]
                   },
                   "items": [
                     {
                       "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0019",
                       "type": "Canvas"
-                    },
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/23",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "(2. Warumb sich auch die zwen Poli des Magnets auf eine gewiße art gegen den mittelpunct der erden neigen?)"
+                    ]
+                  },
+                  "items": [
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/22",
-                      "type": "Range",
-                      "label": {
-                        "en": [
-                          "(1. Welches die Poli des Magnets seind, und warumb sie sich gegen die Erde kehren?)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0019",
-                          "type": "Canvas"
-                        }
-                      ]
-                    },
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0019",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/24",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "(3. Warumb ein Magnet zu dem anderen sich kehret und neige gleich als zu der Erden?)"
+                    ]
+                  },
+                  "items": [
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/23",
-                      "type": "Range",
-                      "label": {
-                        "en": [
-                          "(2. Warumb sich auch die zwen Poli des Magnets auf eine gewiße art gegen den mittelpunct der erden neigen?)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0019",
-                          "type": "Canvas"
-                        }
-                      ]
-                    },
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0020",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/25",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "(4. Warumb sich zwenn Magnet zueinander begeben und was eines ieden Umbkreises Krafft sey? (quae sit cuiusqe sphaera activitatis.)"
+                    ]
+                  },
+                  "items": [
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/24",
-                      "type": "Range",
-                      "label": {
-                        "en": [
-                          "(3. Warumb ein Magnet zu dem anderen sich kehret und neige gleich als zu der Erden?)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0020",
-                          "type": "Canvas"
-                        }
-                      ]
-                    },
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0021",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/26",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "(5. Warumb sie ie bisweilen von einander blieben?)"
+                    ]
+                  },
+                  "items": [
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/25",
-                      "type": "Range",
-                      "label": {
-                        "en": [
-                          "(4. Warumb sich zwenn Magnet zueinander begeben und was eines ieden Umbkreises Krafft sey? (quae sit cuiusqe sphaera activitatis.)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0021",
-                          "type": "Canvas"
-                        }
-                      ]
-                    },
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0022",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/27",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "(6. Warumb die in Zwey geschnittene theile eines Magnets, welche vor der Zerschneidung vereiniget gewesen, hernachmals von einander abweichen?)"
+                    ]
+                  },
+                  "items": [
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/26",
-                      "type": "Range",
-                      "label": {
-                        "en": [
-                          "(5. Warumb sie ie bisweilen von einander blieben?)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0022",
-                          "type": "Canvas"
-                        }
-                      ]
-                    },
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0023",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/28",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "(7. Warumb die Zwey Puncta, welche erstlich in einem Magnet einander berühreten, hernachmals in desselben Stükken Poli werden von underschiedlicher Krafft?)"
+                    ]
+                  },
+                  "items": [
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/27",
-                      "type": "Range",
-                      "label": {
-                        "en": [
-                          "(6. Warumb die in Zwey geschnittene theile eines Magnets, welche vor der Zerschneidung vereiniget gewesen, hernachmals von einander abweichen?)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0023",
-                          "type": "Canvas"
-                        }
-                      ]
-                    },
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0023",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/29",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "(8. Warumb in einem ieden Theil des Magneten Die Krafft oder Würkung sey, als wie sie ist in dem Gantzen Magnet?)"
+                    ]
+                  },
+                  "items": [
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/28",
-                      "type": "Range",
-                      "label": {
-                        "en": [
-                          "(7. Warumb die Zwey Puncta, welche erstlich in einem Magnet einander berühreten, hernachmals in desselben Stükken Poli werden von underschiedlicher Krafft?)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0023",
-                          "type": "Canvas"
-                        }
-                      ]
-                    },
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0023",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/30",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "(9. Warumb ein Magnet dem Eisen, das ihn berühret, seine Krafft mittheilet?)"
+                    ]
+                  },
+                  "items": [
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/29",
-                      "type": "Range",
-                      "label": {
-                        "en": [
-                          "(8. Warumb in einem ieden Theil des Magneten Die Krafft oder Würkung sey, als wie sie ist in dem Gantzen Magnet?)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0023",
-                          "type": "Canvas"
-                        }
-                      ]
-                    },
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0024",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/31",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "(10. Warumb das Eisen nach underschiedlicher art, als es gegen den Magnet gehalten wird, seine Krafft underschiedlich empfahe?)"
+                    ]
+                  },
+                  "items": [
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/30",
-                      "type": "Range",
-                      "label": {
-                        "en": [
-                          "(9. Warumb ein Magnet dem Eisen, das ihn berühret, seine Krafft mittheilet?)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0024",
-                          "type": "Canvas"
-                        }
-                      ]
-                    },
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0024",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/32",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "(11. Warumb ein länglecht Eisen die Krafft des Magnets nicht anders, als nach seiner länge empfahe?)"
+                    ]
+                  },
+                  "items": [
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/31",
-                      "type": "Range",
-                      "label": {
-                        "en": [
-                          "(10. Warumb das Eisen nach underschiedlicher art, als es gegen den Magnet gehalten wird, seine Krafft underschiedlich empfahe?)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0024",
-                          "type": "Canvas"
-                        }
-                      ]
-                    },
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0025",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/33",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "(12. Warumb der Magnet von seiner Krafft nicht abgehet, ob Er schon dieselbe dem Eisen mittheilet?)"
+                    ]
+                  },
+                  "items": [
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/32",
-                      "type": "Range",
-                      "label": {
-                        "en": [
-                          "(11. Warumb ein länglecht Eisen die Krafft des Magnets nicht anders, als nach seiner länge empfahe?)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0025",
-                          "type": "Canvas"
-                        }
-                      ]
-                    },
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0025",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/34",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "(13. Warumb diese Krafft dem Eisen so geschwinde zwar mittgetheilet, aber mit der Länge der Zeit bestärket wird?)"
+                    ]
+                  },
+                  "items": [
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/33",
-                      "type": "Range",
-                      "label": {
-                        "en": [
-                          "(12. Warumb der Magnet von seiner Krafft nicht abgehet, ob Er schon dieselbe dem Eisen mittheilet?)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0025",
-                          "type": "Canvas"
-                        }
-                      ]
-                    },
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0025",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/35",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "(14. Warumb zu empfahung dieser Krafft der Stahl viel bequehmer als das gringste Eisen sey?)"
+                    ]
+                  },
+                  "items": [
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/34",
-                      "type": "Range",
-                      "label": {
-                        "en": [
-                          "(13. Warumb diese Krafft dem Eisen so geschwinde zwar mittgetheilet, aber mit der Länge der Zeit bestärket wird?)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0025",
-                          "type": "Canvas"
-                        }
-                      ]
-                    },
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0026",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/36",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "(15. Warumb dem Stahl eine stärkere Krafft von einem guten Magneten als einem schlimmen mittgetheilet wird?)"
+                    ]
+                  },
+                  "items": [
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/35",
-                      "type": "Range",
-                      "label": {
-                        "en": [
-                          "(14. Warumb zu empfahung dieser Krafft der Stahl viel bequehmer als das gringste Eisen sey?)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0026",
-                          "type": "Canvas"
-                        }
-                      ]
-                    },
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0026",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/37",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "(16. Warumb auch die Erde selbst dem Eisen eine Magnetische Krafft zueignet?)"
+                    ]
+                  },
+                  "items": [
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/36",
-                      "type": "Range",
-                      "label": {
-                        "en": [
-                          "(15. Warumb dem Stahl eine stärkere Krafft von einem guten Magneten als einem schlimmen mittgetheilet wird?)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0026",
-                          "type": "Canvas"
-                        }
-                      ]
-                    },
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0026",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/38",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "(17. Warumb die Krafft der Magnetische in der Erden schwächer sey, als in anderen kleineren Magneten?)"
+                    ]
+                  },
+                  "items": [
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/37",
-                      "type": "Range",
-                      "label": {
-                        "en": [
-                          "(16. Warumb auch die Erde selbst dem Eisen eine Magnetische Krafft zueignet?)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0026",
-                          "type": "Canvas"
-                        }
-                      ]
-                    },
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0027",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/39",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "(18. Warumb die vom Magnet berührten Nadeln allezeit die Polus ihrer Kräffte in ihren Spitzen haben?)"
+                    ]
+                  },
+                  "items": [
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/38",
-                      "type": "Range",
-                      "label": {
-                        "en": [
-                          "(17. Warumb die Krafft der Magnetische in der Erden schwächer sey, als in anderen kleineren Magneten?)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0027",
-                          "type": "Canvas"
-                        }
-                      ]
-                    },
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0027",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/40",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "(19. Warumb die Poli, darinnen Magnetische Kräffte, sich nicht allezeit gerade gegen die Polos der Erden wenden oder richten, sondern underschidlich von ihnen abweichen?)"
+                    ]
+                  },
+                  "items": [
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/39",
-                      "type": "Range",
-                      "label": {
-                        "en": [
-                          "(18. Warumb die vom Magnet berührten Nadeln allezeit die Polus ihrer Kräffte in ihren Spitzen haben?)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0027",
-                          "type": "Canvas"
-                        }
-                      ]
-                    },
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0028",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/41",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "(20. Warumb auch bißweilen mit der Zeit solche abweichung verendert werde?)"
+                    ]
+                  },
+                  "items": [
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/40",
-                      "type": "Range",
-                      "label": {
-                        "en": [
-                          "(19. Warumb die Poli, darinnen Magnetische Kräffte, sich nicht allezeit gerade gegen die Polos der Erden wenden oder richten, sondern underschidlich von ihnen abweichen?)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0028",
-                          "type": "Canvas"
-                        }
-                      ]
-                    },
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0029",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/42",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "(21. Warumb dieselbe abweichung in einem Magnet, der auf einem von seinen Polis aufgerichtet stehet, schwächer oder weniger sey, als wen seine Poli gleich von der Erden stehen?)"
+                    ]
+                  },
+                  "items": [
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/41",
-                      "type": "Range",
-                      "label": {
-                        "en": [
-                          "(20. Warumb auch bißweilen mit der Zeit solche abweichung verendert werde?)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0029",
-                          "type": "Canvas"
-                        }
-                      ]
-                    },
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0029",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/43",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "(22. Warumb der Magnet das Eisen zihe?)"
+                    ]
+                  },
+                  "items": [
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/42",
-                      "type": "Range",
-                      "label": {
-                        "en": [
-                          "(21. Warumb dieselbe abweichung in einem Magnet, der auf einem von seinen Polis aufgerichtet stehet, schwächer oder weniger sey, als wen seine Poli gleich von der Erden stehen?)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0029",
-                          "type": "Canvas"
-                        }
-                      ]
-                    },
-                    {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/43",
-                      "type": "Range",
-                      "label": {
-                        "en": [
-                          "(22. Warumb der Magnet das Eisen zihe?)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0029",
-                          "type": "Canvas"
-                        }
-                      ]
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0029",
+                      "type": "Canvas"
                     }
                   ]
                 }
