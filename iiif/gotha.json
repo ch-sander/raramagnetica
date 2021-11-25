@@ -1,0 +1,2051 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://dlib.biblhertz.it/iiif/gothaa707/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "William Barlow and René Descartes in German translation"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "author(s)"
+        ]
+      },
+      "value": {
+        "none": [
+          "William Barlow and René Descartes, translator unkown"
+        ]
+      }
+    },
+	{
+      "label": {
+        "en": [
+          "title"
+        ]
+      },
+      "value": {
+        "none": [
+          "¹Inhalt des Englischen Tractätleins Vom Magneten William Barlow<br/>²Kürtzliche Erleuterung etlicher Vorgaben von der Würkung des MagnetSteins nach Anleitung und gesetzten Grundstücken von Cartesio<br/>"
+        ]
+      }
+    },
+	{
+      "label": {
+        "en": [
+          "date"
+        ]
+      },
+      "value": {
+        "none": [
+          "after 1644"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "held by"
+        ]
+      },
+      "value": {
+        "none": [
+          "¹Gotha, Forschungsbibliothek, Chart. A 707, fols. 184r–188v<br/>²Gotha, Forschungsbibliothek, Chart. A 707, fols. 190r–202v"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "catalogue"
+        ]
+      },
+      "value": {
+        "none": [
+          "¹<a href=\"http://aleph.mpg.de/F/?func=find-b&local_base=kub01&find_code=idn&request=BV0000000\">Kubikat </a>   ²<a href=\"http://aleph.mpg.de/F/?func=find-b&local_base=kub01&find_code=idn&request=BV0000000\">Kubikat </a>   "
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "hosted by"
+        ]
+      },
+      "value": {
+        "none": [
+          "<span><a href=\"https://www.biblhertz.it\">BHMPI Rome</a></span>"
+        ]
+      }
+    },
+	{
+      "label": {
+        "en": [
+          "part of"
+        ]
+      },
+      "value": {
+        "none": [
+          "<span><a href=\"https://ch-sander.github.io/raramagnetica/\">rara magnetica</a> by Christoph Sander</span>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "identifier"
+        ]
+      },
+      "value": {
+        "none": [
+          "ark:/30440/02/gothaa707"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0001.jp2/full/80,100/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "service": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0001.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ]
+    }
+  ],
+  "viewingDirection": "left-to-right",
+  "behavior": [
+    "individuals",
+    "non-paged"
+  ],
+  "navDate": "2021-11-25T11:26:59.498+01:00",
+  "rights": "http://creativecommons.org/licenses/by-nc/4.0/",
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "Provided by BHMPI Rome"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://www.biblhertz.it/en/mission",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "Bibliotheca Hertziana – Max Planck Institute for Art History"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://www.biblhertz.it/",
+          "type": "Text",
+          "label": {
+            "en": [
+              "Bibliotheca Hertziana"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "logo": [
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/rsc@bhmpi.jp2/full/200,/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "service": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/rsc@bhmpi.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ]
+    }
+  ],
+  "start": {
+    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0001",
+    "type": "Canvas"
+  },
+  "items": [
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0001",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "184r"
+        ]
+      },
+      "height": 4137,
+      "width": 2498,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0001/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0001.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0001.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4137,
+                "width": 2498
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0002",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "184v"
+        ]
+      },
+      "height": 4144,
+      "width": 2587,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0002/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0002-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0002.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0002.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4144,
+                "width": 2587
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0002"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0003",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "185r"
+        ]
+      },
+      "height": 4137,
+      "width": 2581,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0003/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0003-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0003.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0003.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4137,
+                "width": 2581
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0004",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "185v"
+        ]
+      },
+      "height": 4144,
+      "width": 2587,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0004/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0004-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0004.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0004.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4144,
+                "width": 2587
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0004"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0005",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "186r"
+        ]
+      },
+      "height": 4150,
+      "width": 2581,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0005/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0005-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0005.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0005.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4150,
+                "width": 2581
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0006",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "186v"
+        ]
+      },
+      "height": 4153,
+      "width": 2587,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0006/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0006-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0006.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0006.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4153,
+                "width": 2587
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0006"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0007",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "187r"
+        ]
+      },
+      "height": 4150,
+      "width": 2581,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0007/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0007-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0007.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0007.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4150,
+                "width": 2581
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0008",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "187v"
+        ]
+      },
+      "height": 4153,
+      "width": 2544,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0008/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0008-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0008.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0008.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4153,
+                "width": 2544
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0008"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0009",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "188r"
+        ]
+      },
+      "height": 4150,
+      "width": 2535,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0009/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0009-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0009.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0009.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4150,
+                "width": 2535
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0009"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0010",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "189r"
+        ]
+      },
+      "height": 4153,
+      "width": 2577,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0010/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0010-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0010.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0010.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4153,
+                "width": 2577
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0010"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0011",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "189v"
+        ]
+      },
+      "height": 4112,
+      "width": 2487,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0011/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0011-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0011.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0011.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4112,
+                "width": 2487
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0011"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0012",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "190r"
+        ]
+      },
+      "height": 4119,
+      "width": 2484,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0012/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0012-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0012.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0012.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4119,
+                "width": 2484
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0012"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0013",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "190v"
+        ]
+      },
+      "height": 4112,
+      "width": 2487,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0013/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0013-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0013.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0013.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4112,
+                "width": 2487
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0013"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0014",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "191r"
+        ]
+      },
+      "height": 4119,
+      "width": 2484,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0014/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0014-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0014.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0014.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4119,
+                "width": 2484
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0015",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "191v"
+        ]
+      },
+      "height": 4111,
+      "width": 2487,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0015/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0015-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0015.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0015.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4111,
+                "width": 2487
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0015"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0016",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "192r"
+        ]
+      },
+      "height": 4119,
+      "width": 2484,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0016/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0016-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0016.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0016.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4119,
+                "width": 2484
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0016"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0017",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "192v"
+        ]
+      },
+      "height": 4112,
+      "width": 2487,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0017/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0017-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0017.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0017.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4112,
+                "width": 2487
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0018",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "193r"
+        ]
+      },
+      "height": 4119,
+      "width": 2484,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0018/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0018-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0018.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0018.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4119,
+                "width": 2484
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0018"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0019",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "193v"
+        ]
+      },
+      "height": 4112,
+      "width": 2487,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0019/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0019-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0019.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0019.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4112,
+                "width": 2487
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0019"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0020",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "194r"
+        ]
+      },
+      "height": 4119,
+      "width": 2484,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0020/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0020-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0020.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0020.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4119,
+                "width": 2484
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0021",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "194v"
+        ]
+      },
+      "height": 4111,
+      "width": 2487,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0021/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0021-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0021.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0021.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4111,
+                "width": 2487
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0022",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "195r"
+        ]
+      },
+      "height": 4119,
+      "width": 2484,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0022/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0022-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0022.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0022.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4119,
+                "width": 2484
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0023",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "195v"
+        ]
+      },
+      "height": 4112,
+      "width": 2487,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0023/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0023-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0023.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0023.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4112,
+                "width": 2487
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0024",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "196r"
+        ]
+      },
+      "height": 4119,
+      "width": 2484,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0024/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0024-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0024.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0024.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4119,
+                "width": 2484
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0025",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "197r"
+        ]
+      },
+      "height": 4112,
+      "width": 2487,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0025/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0025-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0025.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0025.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4112,
+                "width": 2487
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0026",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "197v"
+        ]
+      },
+      "height": 4119,
+      "width": 2484,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0026/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0026-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0026.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0026.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4119,
+                "width": 2484
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0027",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "198r"
+        ]
+      },
+      "height": 4112,
+      "width": 2487,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0027/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0027-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0027.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0027.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4112,
+                "width": 2487
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0027"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0028",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "198v"
+        ]
+      },
+      "height": 4119,
+      "width": 2484,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0028/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0028-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0028.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0028.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4119,
+                "width": 2484
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0028"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0029",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "199r"
+        ]
+      },
+      "height": 4111,
+      "width": 2487,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0029/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0029-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0029.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0029.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4111,
+                "width": 2487
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0029"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0030",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "199v"
+        ]
+      },
+      "height": 4119,
+      "width": 2484,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0030/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0030-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0030.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0030.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4119,
+                "width": 2484
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0030"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0031",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "200r"
+        ]
+      },
+      "height": 4111,
+      "width": 2487,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0031/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0031-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0031.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0031.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4111,
+                "width": 2487
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0031"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0032",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "200v"
+        ]
+      },
+      "height": 4119,
+      "width": 2484,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0032/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0032-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0032.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0032.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4119,
+                "width": 2484
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0032"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0033",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "201r"
+        ]
+      },
+      "height": 4111,
+      "width": 2487,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0033/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0033-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0033.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0033.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4111,
+                "width": 2487
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0033"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0034",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "201v"
+        ]
+      },
+      "height": 4119,
+      "width": 2484,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0034/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0034-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0034.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0034.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4119,
+                "width": 2484
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0034"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0035",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "202r"
+        ]
+      },
+      "height": 4122,
+      "width": 2487,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0035/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0035-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0035.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0035.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4122,
+                "width": 2487
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0035"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0036",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "202v"
+        ]
+      },
+      "height": 4119,
+      "width": 2484,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/page/p0036/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/annotation/p0036-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0036.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707@0036.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 4119,
+                "width": 2484
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0036"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Table of Contents"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/1",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Inhalt des Englischen Tractätleins Vom Magneten William Barlow"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0001",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/2",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[content]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0001",
+                  "type": "Canvas"
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/3",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 1: Von der magnetischen Kraft und Stärke der ganzen Erdkugel"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0002",
+                      "type": "Canvas"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/14",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Kürtzliche Erleuterung etlicher Vorgaben von der Würkung des MagnetSteins nach Anleitung und gesetzten Grundstücken von Cartesio"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0012",
+                  "type": "Canvas"
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/15",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 1"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0012",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/17",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "[illustrations]"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0014",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/19",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 2"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0016",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/23",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 3"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0020",
+                      "type": "Canvas"
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/24",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(1. Welches die Poli des Magnets seind, und warumb sie sich gegen die Erde kehren?)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0020",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/25",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(2. Warumb sich auch die zwen Poli des Magnets auf eine gewiße art gegen den mittelpunct der erden neigen?)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0020",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/26",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(3. Warumb ein Magnet zu dem anderen sich kehret und neige gleich als zu der Erden?)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0021",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/27",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(4. Warumb sich zwenn Magnet zueinander begeben und was eines ieden Umbkreises Krafft sey? (quae sit cuiusqe sphaera activitatis.)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0022",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/28",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(5. Warumb sie ie bisweilen von einander blieben?)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0023",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/29",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(6. Warumb die in Zwey geschnittene theile eines Magnets, welche vor der Zerschneidung vereiniget gewesen, hernachmals von einander abweichen?)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0024",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/30",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(7. Warumb die Zwey Puncta, welche erstlich in einem Magnet einander berühreten, hernachmals in desselben Stükken Poli werden von underschiedlicher Krafft?)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0024",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/31",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(8. Warumb in einem ieden Theil des Magneten Die Krafft oder Würkung sey, als wie sie ist in dem Gantzen Magnet?)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0024",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/32",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(9. Warumb ein Magnet dem Eisen, das ihn berühret, seine Krafft mittheilet?)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0025",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/33",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(10. Warumb das Eisen nach underschiedlicher art, als es gegen den Magnet gehalten wird, seine Krafft underschiedlich empfahe?)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0025",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/34",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(11. Warumb ein länglecht Eisen die Krafft des Magnets nicht anders, als nach seiner länge empfahe?)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0025",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/35",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(12. Warumb der Magnet von seiner Krafft nicht abgehet, ob Er schon dieselbe dem Eisen mittheilet?)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0025",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/36",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(13. Warumb diese Krafft dem Eisen so geschwinde zwar mittgetheilet, aber mit der Länge der Zeit bestärket wird?)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0025",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/37",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(14. Warumb zu empfahung dieser Krafft der Stahl viel bequehmer als das gringste Eisen sey?)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0026",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/38",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(15. Warumb dem Stahl eine stärkere Krafft von einem guten Magneten als einem schlimmen mittgetheilet wird?)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0026",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/39",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(16. Warumb auch die Erde selbst dem Eisen eine Magnetische Krafft zueignet?)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0026",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/40",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(17. Warumb die Krafft der Magnetische in der Erden schwächer sey, als in anderen kleineren Magneten?)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0027",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/41",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(18. Warumb die vom Magnet berührten Nadeln allezeit die Polus ihrer Kräffte in ihren Spitzen haben?)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0027",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/42",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(19. Warumb die Poli, darinnen Magnetische Kräffte, sich nicht allezeit gerade gegen die Polos der Erden wenden oder richten, sondern underschidlich von ihnen abweichen?)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0028",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/43",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(20. Warumb auch bißweilen mit der Zeit solche abweichung verendert werde?)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0029",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/44",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(21. Warumb dieselbe abweichung in einem Magnet, der auf einem von seinen Polis aufgerichtet stehet, schwächer oder weniger sey, als wen seine Poli gleich von der Erden stehen?)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0029",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/45",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(22. Warumb der Magnet das Eisen zihe?)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0029",
+                          "type": "Canvas"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
