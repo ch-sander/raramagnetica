@@ -536,7 +536,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "189r"
+          "188v"
         ]
       },
       "height": 4153,
@@ -575,7 +575,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "189v"
+          "190r"
         ]
       },
       "height": 4112,
@@ -614,7 +614,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "190r"
+          "190v"
         ]
       },
       "height": 4119,
@@ -653,7 +653,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "190v"
+          "191r"
         ]
       },
       "height": 4112,
@@ -692,7 +692,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "191r"
+          "191v"
         ]
       },
       "height": 4119,
@@ -731,7 +731,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "191v"
+          "192r"
         ]
       },
       "height": 4111,
@@ -770,7 +770,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "192r"
+          "192v"
         ]
       },
       "height": 4119,
@@ -809,7 +809,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "192v"
+          "193r"
         ]
       },
       "height": 4112,
@@ -848,7 +848,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "193r"
+          "193v"
         ]
       },
       "height": 4119,
@@ -887,7 +887,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "193v"
+          "194r"
         ]
       },
       "height": 4112,
@@ -926,7 +926,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "194r"
+          "194v"
         ]
       },
       "height": 4119,
@@ -965,7 +965,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "194v"
+          "195r"
         ]
       },
       "height": 4111,
@@ -1004,7 +1004,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "195r"
+          "195v"
         ]
       },
       "height": 4119,
@@ -1043,7 +1043,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "195v"
+          "196r"
         ]
       },
       "height": 4112,
@@ -1082,7 +1082,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "196r"
+          "196v"
         ]
       },
       "height": 4119,
@@ -1639,7 +1639,7 @@
               ]
             },
             {
-              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/14",
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/12",
               "type": "Range",
               "label": {
                 "en": [
@@ -1648,11 +1648,11 @@
               },
               "items": [
                 {
-                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0012",
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0011",
                   "type": "Canvas"
                 },
                 {
-                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/15",
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/13",
                   "type": "Range",
                   "label": {
                     "en": [
@@ -1661,7 +1661,22 @@
                   },
                   "items": [
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0012",
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0011",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/15",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "[illustrations]"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0013",
                       "type": "Canvas"
                     }
                   ]
@@ -1671,33 +1686,18 @@
                   "type": "Range",
                   "label": {
                     "en": [
-                      "[illustrations]"
-                    ]
-                  },
-                  "items": [
-                    {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0014",
-                      "type": "Canvas"
-                    }
-                  ]
-                },
-                {
-                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/19",
-                  "type": "Range",
-                  "label": {
-                    "en": [
                       "cap. 2"
                     ]
                   },
                   "items": [
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0016",
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0015",
                       "type": "Canvas"
                     }
                   ]
                 },
                 {
-                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/23",
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/21",
                   "type": "Range",
                   "label": {
                     "en": [
@@ -1706,15 +1706,45 @@
                   },
                   "items": [
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0020",
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0019",
                       "type": "Canvas"
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/22",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(1. Welches die Poli des Magnets seind, und warumb sie sich gegen die Erde kehren?)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0019",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/23",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(2. Warumb sich auch die zwen Poli des Magnets auf eine gewiße art gegen den mittelpunct der erden neigen?)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0019",
+                          "type": "Canvas"
+                        }
+                      ]
                     },
                     {
                       "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/24",
                       "type": "Range",
                       "label": {
                         "en": [
-                          "(1. Welches die Poli des Magnets seind, und warumb sie sich gegen die Erde kehren?)"
+                          "(3. Warumb ein Magnet zu dem anderen sich kehret und neige gleich als zu der Erden?)"
                         ]
                       },
                       "items": [
@@ -1729,22 +1759,7 @@
                       "type": "Range",
                       "label": {
                         "en": [
-                          "(2. Warumb sich auch die zwen Poli des Magnets auf eine gewiße art gegen den mittelpunct der erden neigen?)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0020",
-                          "type": "Canvas"
-                        }
-                      ]
-                    },
-                    {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/26",
-                      "type": "Range",
-                      "label": {
-                        "en": [
-                          "(3. Warumb ein Magnet zu dem anderen sich kehret und neige gleich als zu der Erden?)"
+                          "(4. Warumb sich zwenn Magnet zueinander begeben und was eines ieden Umbkreises Krafft sey? (quae sit cuiusqe sphaera activitatis.)"
                         ]
                       },
                       "items": [
@@ -1755,11 +1770,11 @@
                       ]
                     },
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/27",
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/26",
                       "type": "Range",
                       "label": {
                         "en": [
-                          "(4. Warumb sich zwenn Magnet zueinander begeben und was eines ieden Umbkreises Krafft sey? (quae sit cuiusqe sphaera activitatis.)"
+                          "(5. Warumb sie ie bisweilen von einander blieben?)"
                         ]
                       },
                       "items": [
@@ -1770,11 +1785,26 @@
                       ]
                     },
                     {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/27",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "(6. Warumb die in Zwey geschnittene theile eines Magnets, welche vor der Zerschneidung vereiniget gewesen, hernachmals von einander abweichen?)"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0023",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
                       "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/28",
                       "type": "Range",
                       "label": {
                         "en": [
-                          "(5. Warumb sie ie bisweilen von einander blieben?)"
+                          "(7. Warumb die Zwey Puncta, welche erstlich in einem Magnet einander berühreten, hernachmals in desselben Stükken Poli werden von underschiedlicher Krafft?)"
                         ]
                       },
                       "items": [
@@ -1789,12 +1819,12 @@
                       "type": "Range",
                       "label": {
                         "en": [
-                          "(6. Warumb die in Zwey geschnittene theile eines Magnets, welche vor der Zerschneidung vereiniget gewesen, hernachmals von einander abweichen?)"
+                          "(8. Warumb in einem ieden Theil des Magneten Die Krafft oder Würkung sey, als wie sie ist in dem Gantzen Magnet?)"
                         ]
                       },
                       "items": [
                         {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0024",
+                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0023",
                           "type": "Canvas"
                         }
                       ]
@@ -1804,7 +1834,7 @@
                       "type": "Range",
                       "label": {
                         "en": [
-                          "(7. Warumb die Zwey Puncta, welche erstlich in einem Magnet einander berühreten, hernachmals in desselben Stükken Poli werden von underschiedlicher Krafft?)"
+                          "(9. Warumb ein Magnet dem Eisen, das ihn berühret, seine Krafft mittheilet?)"
                         ]
                       },
                       "items": [
@@ -1819,7 +1849,7 @@
                       "type": "Range",
                       "label": {
                         "en": [
-                          "(8. Warumb in einem ieden Theil des Magneten Die Krafft oder Würkung sey, als wie sie ist in dem Gantzen Magnet?)"
+                          "(10. Warumb das Eisen nach underschiedlicher art, als es gegen den Magnet gehalten wird, seine Krafft underschiedlich empfahe?)"
                         ]
                       },
                       "items": [
@@ -1834,7 +1864,7 @@
                       "type": "Range",
                       "label": {
                         "en": [
-                          "(9. Warumb ein Magnet dem Eisen, das ihn berühret, seine Krafft mittheilet?)"
+                          "(11. Warumb ein länglecht Eisen die Krafft des Magnets nicht anders, als nach seiner länge empfahe?)"
                         ]
                       },
                       "items": [
@@ -1849,7 +1879,7 @@
                       "type": "Range",
                       "label": {
                         "en": [
-                          "(10. Warumb das Eisen nach underschiedlicher art, als es gegen den Magnet gehalten wird, seine Krafft underschiedlich empfahe?)"
+                          "(12. Warumb der Magnet von seiner Krafft nicht abgehet, ob Er schon dieselbe dem Eisen mittheilet?)"
                         ]
                       },
                       "items": [
@@ -1864,7 +1894,7 @@
                       "type": "Range",
                       "label": {
                         "en": [
-                          "(11. Warumb ein länglecht Eisen die Krafft des Magnets nicht anders, als nach seiner länge empfahe?)"
+                          "(13. Warumb diese Krafft dem Eisen so geschwinde zwar mittgetheilet, aber mit der Länge der Zeit bestärket wird?)"
                         ]
                       },
                       "items": [
@@ -1879,36 +1909,6 @@
                       "type": "Range",
                       "label": {
                         "en": [
-                          "(12. Warumb der Magnet von seiner Krafft nicht abgehet, ob Er schon dieselbe dem Eisen mittheilet?)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0025",
-                          "type": "Canvas"
-                        }
-                      ]
-                    },
-                    {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/36",
-                      "type": "Range",
-                      "label": {
-                        "en": [
-                          "(13. Warumb diese Krafft dem Eisen so geschwinde zwar mittgetheilet, aber mit der Länge der Zeit bestärket wird?)"
-                        ]
-                      },
-                      "items": [
-                        {
-                          "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0025",
-                          "type": "Canvas"
-                        }
-                      ]
-                    },
-                    {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/37",
-                      "type": "Range",
-                      "label": {
-                        "en": [
                           "(14. Warumb zu empfahung dieser Krafft der Stahl viel bequehmer als das gringste Eisen sey?)"
                         ]
                       },
@@ -1920,7 +1920,7 @@
                       ]
                     },
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/38",
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/36",
                       "type": "Range",
                       "label": {
                         "en": [
@@ -1935,7 +1935,7 @@
                       ]
                     },
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/39",
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/37",
                       "type": "Range",
                       "label": {
                         "en": [
@@ -1950,7 +1950,7 @@
                       ]
                     },
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/40",
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/38",
                       "type": "Range",
                       "label": {
                         "en": [
@@ -1965,7 +1965,7 @@
                       ]
                     },
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/41",
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/39",
                       "type": "Range",
                       "label": {
                         "en": [
@@ -1980,7 +1980,7 @@
                       ]
                     },
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/42",
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/40",
                       "type": "Range",
                       "label": {
                         "en": [
@@ -1995,7 +1995,7 @@
                       ]
                     },
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/43",
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/41",
                       "type": "Range",
                       "label": {
                         "en": [
@@ -2010,7 +2010,7 @@
                       ]
                     },
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/44",
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/42",
                       "type": "Range",
                       "label": {
                         "en": [
@@ -2025,7 +2025,7 @@
                       ]
                     },
                     {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/45",
+                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/43",
                       "type": "Range",
                       "label": {
                         "en": [
