@@ -1620,21 +1620,21 @@
                 {
                   "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0001",
                   "type": "Canvas"
-                },
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/3",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "cap. 1: Von der magnetischen Kraft und Stärke der ganzen Erdkugel"
+                ]
+              },
+              "items": [
                 {
-                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/ranges/3",
-                  "type": "Range",
-                  "label": {
-                    "en": [
-                      "cap. 1: Von der magnetischen Kraft und Stärke der ganzen Erdkugel"
-                    ]
-                  },
-                  "items": [
-                    {
-                      "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0002",
-                      "type": "Canvas"
-                    }
-                  ]
+                  "id": "https://dlib2.biblhertz.it/iiif/3/gothaa707/canvas/p0002",
+                  "type": "Canvas"
                 }
               ]
             }
