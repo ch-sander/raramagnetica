@@ -39,7 +39,7 @@
     },
 	{
       "label": { "en": [ "catalogue" ] },
-      "value": { "none": [ "<a href=\"http://bdh.bne.es/bnesearch/detalle/bdh0000089635\">ÖNB</a> <br/><a href=\"http://aleph.mpg.de/F/?func=find-b&local_base=kub01&find_code=idn&request=BV00000\">Kubikat </a>   " ] }
+      "value": { "none": [ "<a href=\"http://bdh.bne.es/bnesearch/detalle/bdh0000089635\">BNE</a> <br/><a href=\"http://aleph.mpg.de/F/?func=find-b&local_base=kub01&find_code=idn&request=BV00000\">Kubikat </a>   " ] }
     },
 	{
       "label": {
