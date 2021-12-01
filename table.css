@@ -4,7 +4,7 @@
  @import "style.css"
 
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
-body {margin:0; font-size:13px; font-style:normal; line-height:18px; font-family:'Source Sans Pro', sans-serif; background: #F2F2F2; color:#000000;text-transform:lowercase;}
+body {margin:0; font-size:13px; font-style:normal; line-height:18px; font-family:'Source Sans Pro', sans-serif; background: #F2F2F2; color:#000000;}
 h3 {text-transform:lowercase; font-size:16px;}
 h3::before{content: "_"; color: var(--me-color);}
 
