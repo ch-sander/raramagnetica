@@ -20,7 +20,7 @@
         ]
       }
     },
-	{
+    {
       "label": {
         "en": [
           "translator"
@@ -32,7 +32,7 @@
         ]
       }
     },
-	{
+    {
       "label": {
         "en": [
           "title"
@@ -56,7 +56,7 @@
         ]
       }
     },
-	{
+    {
       "label": {
         "en": [
           "held by"
@@ -68,7 +68,7 @@
         ]
       }
     },
-	{
+    {
       "label": {
         "en": [
           "shelfmark"
@@ -80,7 +80,7 @@
         ]
       }
     },
-	{
+    {
       "label": {
         "en": [
           "catalogue"
@@ -209,7 +209,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "1"
+          "180r"
         ]
       },
       "height": 2650,
@@ -248,7 +248,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "2"
+          "180v"
         ]
       },
       "height": 2698,
@@ -287,7 +287,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "3"
+          "181r"
         ]
       },
       "height": 2672,
@@ -326,7 +326,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "4"
+          "181v"
         ]
       },
       "height": 2698,
@@ -365,7 +365,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "5"
+          "182r"
         ]
       },
       "height": 2672,
@@ -404,7 +404,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "6"
+          "182v"
         ]
       },
       "height": 2698,
@@ -443,7 +443,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "7"
+          "183r"
         ]
       },
       "height": 2680,
@@ -482,7 +482,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "8"
+          "183v"
         ]
       },
       "height": 2687,
@@ -521,7 +521,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "9"
+          "184r"
         ]
       },
       "height": 2672,
@@ -560,7 +560,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "10"
+          "184v"
         ]
       },
       "height": 2683,
@@ -599,7 +599,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "11"
+          "185r"
         ]
       },
       "height": 2672,
@@ -638,7 +638,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "12"
+          "185v"
         ]
       },
       "height": 2683,
@@ -677,7 +677,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "13"
+          "186r"
         ]
       },
       "height": 2672,
@@ -716,7 +716,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "14"
+          "186v"
         ]
       },
       "height": 2683,
@@ -755,7 +755,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "15"
+          "187r"
         ]
       },
       "height": 2676,
@@ -794,7 +794,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "16"
+          "187v"
         ]
       },
       "height": 2683,
@@ -833,7 +833,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "17"
+          "188r"
         ]
       },
       "height": 2676,
@@ -872,7 +872,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "18"
+          "188v"
         ]
       },
       "height": 2690,
@@ -911,7 +911,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "19"
+          "189r"
         ]
       },
       "height": 2676,
@@ -950,7 +950,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "20"
+          "189v"
         ]
       },
       "height": 2698,
@@ -989,7 +989,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "21"
+          "190r"
         ]
       },
       "height": 2672,
@@ -1028,7 +1028,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "22"
+          "190v"
         ]
       },
       "height": 2698,
@@ -1067,7 +1067,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "23"
+          "191r"
         ]
       },
       "height": 2672,
@@ -1106,7 +1106,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "24"
+          "191v"
         ]
       },
       "height": 2698,
@@ -1145,7 +1145,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "25"
+          "192r"
         ]
       },
       "height": 2672,
@@ -1184,7 +1184,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "26"
+          "192v"
         ]
       },
       "height": 2698,
@@ -1223,7 +1223,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "27"
+          "193r"
         ]
       },
       "height": 2672,
@@ -1262,7 +1262,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "28"
+          "193v"
         ]
       },
       "height": 2698,
@@ -1301,7 +1301,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "29"
+          "194r"
         ]
       },
       "height": 2672,
@@ -1340,7 +1340,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "30"
+          "194v"
         ]
       },
       "height": 2698,
@@ -1379,7 +1379,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "31"
+          "195r"
         ]
       },
       "height": 2672,
@@ -1418,7 +1418,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "32"
+          "195v"
         ]
       },
       "height": 2702,
@@ -1457,7 +1457,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "33"
+          "196r"
         ]
       },
       "height": 2672,
@@ -1496,7 +1496,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "34"
+          "196v"
         ]
       },
       "height": 2676,
@@ -1535,7 +1535,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "35"
+          "197r"
         ]
       },
       "height": 2647,
@@ -1574,7 +1574,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "36"
+          "197v"
         ]
       },
       "height": 2676,
@@ -1613,7 +1613,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "37"
+          "198r"
         ]
       },
       "height": 2647,
@@ -1652,7 +1652,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "38"
+          "198v"
         ]
       },
       "height": 2680,
@@ -1691,7 +1691,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "39"
+          "199r"
         ]
       },
       "height": 2647,
@@ -1730,7 +1730,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "40"
+          "199v"
         ]
       },
       "height": 2680,
@@ -1759,6 +1759,259 @@
                 "width": 1982
               },
               "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0040"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/ranges",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Table of Contents"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/ranges/1",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Trattato della pietra calamita, et di una rota del moto perpetuo."
+            ]
+          },
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0001",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/ranges/2",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[Parte prima]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0002",
+                  "type": "Canvas"
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/ranges/3",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "Quale debba essere l’artefice di quest’opera. Capitolo 1."
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0002",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/ranges/4",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "Della cognitione della calamita. Capitolo 2."
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0003",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/ranges/5",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "lla scientia del trovar le parti della calamita. Capitolo 3."
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0004",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/ranges/7",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "Della scientia del ritrovare i poli nella calamita, quale sia quello di tramontana et quale di ostro. Capitolo 4."
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0006",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/ranges/9",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "In che modo la calamita tiri la calamita. Capitolo V."
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0008",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/ranges/12",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "Come il ferro toccato con la calamita si volti ai poli del mondo. Capitolo VI."
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0011",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/ranges/13",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "Perché la calamita tiri il ferro. Capitolo VII."
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0011",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/ranges/15",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "Perché la parte di tramontana tira quella di ostro et per lo contrario. Capitolo VIII."
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0013",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/ranges/19",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "Della inquisitione, onde la calamita prenda la virtù naturale, che ha. Capitolo IX."
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0017",
+                      "type": "Canvas"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/ranges/22",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Parte seconda"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0020",
+                  "type": "Canvas"
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/ranges/23",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "Della compositione dell’instrumento col quale si sa l’azimut del sole, della luna et di ciascuna stella nell’orizonte."
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0020",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/ranges/27",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "Della compositione di un’altro migliore strumento per l’uso medesimo. Capitolo II."
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0024",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/ranges/29",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "Dell’artificio del componere la rota del moto perpetuo. Capitolo III."
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0026",
+                      "type": "Canvas"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/ranges/36",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[illustrations]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0033",
+                  "type": "Canvas"
+                }
+              ]
             }
           ]
         }

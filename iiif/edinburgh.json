@@ -20,7 +20,7 @@
         ]
       }
     },
-	{
+    {
       "label": {
         "en": [
           "title"
@@ -68,8 +68,7 @@
         ]
       }
     },
-	
-	{
+    {
       "label": {
         "en": [
           "catalogue"
@@ -81,7 +80,7 @@
         ]
       }
     },
-	{
+    {
       "label": {
         "en": [
           "hosted by"
@@ -198,7 +197,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "1"
+          "35"
         ]
       },
       "height": 3700,
@@ -237,7 +236,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "2"
+          "36"
         ]
       },
       "height": 3689,
@@ -276,7 +275,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "3"
+          "37"
         ]
       },
       "height": 3689,
@@ -315,7 +314,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "4"
+          "38"
         ]
       },
       "height": 3689,
@@ -354,7 +353,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "5"
+          "39"
         ]
       },
       "height": 3689,
@@ -393,7 +392,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "6"
+          "40"
         ]
       },
       "height": 3689,
@@ -432,7 +431,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "7"
+          "41"
         ]
       },
       "height": 3689,
@@ -471,7 +470,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "8"
+          "42"
         ]
       },
       "height": 3689,
@@ -510,7 +509,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "9"
+          "43"
         ]
       },
       "height": 3689,
@@ -549,7 +548,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "10"
+          "44"
         ]
       },
       "height": 3689,
@@ -588,7 +587,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "11"
+          "45"
         ]
       },
       "height": 3689,
@@ -627,7 +626,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "12"
+          "46"
         ]
       },
       "height": 3689,
@@ -666,7 +665,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "13"
+          "47"
         ]
       },
       "height": 3689,
@@ -705,7 +704,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "14"
+          "48"
         ]
       },
       "height": 3689,
@@ -744,7 +743,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "15"
+          "49"
         ]
       },
       "height": 3689,
@@ -783,7 +782,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "16"
+          "50"
         ]
       },
       "height": 3689,
@@ -822,7 +821,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "17"
+          "51"
         ]
       },
       "height": 3689,
@@ -861,7 +860,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "18"
+          "52"
         ]
       },
       "height": 3689,
@@ -900,7 +899,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "19"
+          "53"
         ]
       },
       "height": 3689,
@@ -929,6 +928,169 @@
                 "width": 2427
               },
               "target": "https://dlib2.biblhertz.it/iiif/3/edbgobscr128/canvas/p0019"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/edbgobscr128/ranges",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Table of Contents"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/edbgobscr128/ranges/1",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Exercitatio Quarta. De Magnete, et uirtutibus Magnetis"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/edbgobscr128/canvas/p0001",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/edbgobscr128/ranges/2",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Sectio prima. De Virtutibus quam habet Magnes coniugendi vel dividendi se ad ferro, vel alio Magnete. Observationes"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/edbgobscr128/canvas/p0001",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/edbgobscr128/ranges/7",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Sectio secunda. De virtutibus, quam habet Magnes dirigendi se ad Polos terrae"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/edbgobscr128/canvas/p0006",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/edbgobscr128/ranges/9",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[illustration]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/edbgobscr128/canvas/p0008",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/edbgobscr128/ranges/10",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Sectio tertia. De Virtutibus quam habet Magnes dirigendi ad varios certos situs Stylos ferreus, et alios Magnetes, duandiu illi applicati sunt, sive ellocati intro Sphaeram sui activitatis"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/edbgobscr128/canvas/p0009",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/edbgobscr128/ranges/11",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[illustration]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/edbgobscr128/canvas/p0009",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/edbgobscr128/ranges/13",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[illustrations]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/edbgobscr128/canvas/p0011",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/edbgobscr128/ranges/14",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[illustrations]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/edbgobscr128/canvas/p0012",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/edbgobscr128/ranges/15",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[illustrations]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/edbgobscr128/canvas/p0013",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/edbgobscr128/ranges/18",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Sectio quarta. De Magnetismo terrae, sive de tellure maximo Magnetico"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/edbgobscr128/canvas/p0016",
+                  "type": "Canvas"
+                }
+              ]
             }
           ]
         }
