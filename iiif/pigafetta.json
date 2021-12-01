@@ -1,0 +1,1768 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://dlib.biblhertz.it/iiif/ac13991856/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Trattato della pietra calamita e di una rota del moto perpetuo"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "author"
+        ]
+      },
+      "value": {
+        "none": [
+          "Petrus Peregrinus"
+        ]
+      }
+    },
+	{
+      "label": {
+        "en": [
+          "translator"
+        ]
+      },
+      "value": {
+        "none": [
+          "Pigafetta, Filippo"
+        ]
+      }
+    },
+	{
+      "label": {
+        "en": [
+          "title"
+        ]
+      },
+      "value": {
+        "none": [
+          "Trattato della pietra calamita e di una rota del moto perpetuo"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "date"
+        ]
+      },
+      "value": {
+        "none": [
+          "after 1644"
+        ]
+      }
+    },
+	{
+      "label": {
+        "en": [
+          "held by"
+        ]
+      },
+      "value": {
+        "none": [
+          "Vienna, Österreichische Nationalbibliothek"
+        ]
+      }
+    },
+	{
+      "label": {
+        "en": [
+          "shelfmark"
+        ]
+      },
+      "value": {
+        "none": [
+          "lat. 5969, fols. 180r-199v"
+        ]
+      }
+    },
+	{
+      "label": {
+        "en": [
+          "catalogue"
+        ]
+      },
+      "value": {
+        "none": [
+          "<a href=\"http://data.onb.ac.at/rec/AC13991856\">ÖNB</a> <br/><a href=\"http://aleph.mpg.de/F/?func=find-b&local_base=kub01&find_code=idn&request=BV00000\">Kubikat </a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "hosted by"
+        ]
+      },
+      "value": {
+        "none": [
+          "<span><a href=\"https://www.biblhertz.it\">BHMPI Rome</a></span>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "part of"
+        ]
+      },
+      "value": {
+        "none": [
+          "<span><a href=\"https://ch-sander.github.io/raramagnetica/\">rara magnetica</a> by Christoph Sander</span>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "identifier"
+        ]
+      },
+      "value": {
+        "none": [
+          "ark:/30440/02/ac13991856"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0001.jp2/full/80,100/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "service": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0001.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ]
+    }
+  ],
+  "viewingDirection": "left-to-right",
+  "behavior": [
+    "continuous",
+    "paged"
+  ],
+  "navDate": "2021-11-30T16:25:45.571+01:00",
+  "rights": "http://creativecommons.org/licenses/by-nc/4.0/",
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "Provided by BHMPI Rome."
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://www.biblhertz.it/en/mission",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "Bibliotheca Hertziana – Max Planck Institute for Art History"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://www.biblhertz.it/",
+          "type": "Text",
+          "label": {
+            "en": [
+              "Bibliotheca Hertziana"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "logo": [
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/rsc@bhmpi.jp2/full/200,/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "service": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/rsc@bhmpi.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ]
+    }
+  ],
+  "start": {
+    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0001",
+    "type": "Canvas"
+  },
+  "items": [
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0001",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1"
+        ]
+      },
+      "height": 2650,
+      "width": 1976,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0001/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0001.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0001.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2650,
+                "width": 1976
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0002",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "2"
+        ]
+      },
+      "height": 2698,
+      "width": 1997,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0002/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0002-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0002.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0002.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2698,
+                "width": 1997
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0002"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0003",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "3"
+        ]
+      },
+      "height": 2672,
+      "width": 1976,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0003/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0003-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0003.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0003.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2672,
+                "width": 1976
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0004",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "4"
+        ]
+      },
+      "height": 2698,
+      "width": 1997,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0004/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0004-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0004.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0004.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2698,
+                "width": 1997
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0004"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0005",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "5"
+        ]
+      },
+      "height": 2672,
+      "width": 1976,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0005/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0005-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0005.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0005.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2672,
+                "width": 1976
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0006",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "6"
+        ]
+      },
+      "height": 2698,
+      "width": 1997,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0006/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0006-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0006.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0006.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2698,
+                "width": 1997
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0006"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0007",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "7"
+        ]
+      },
+      "height": 2680,
+      "width": 1976,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0007/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0007-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0007.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0007.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2680,
+                "width": 1976
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0008",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "8"
+        ]
+      },
+      "height": 2687,
+      "width": 1991,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0008/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0008-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0008.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0008.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2687,
+                "width": 1991
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0008"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0009",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "9"
+        ]
+      },
+      "height": 2672,
+      "width": 1976,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0009/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0009-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0009.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0009.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2672,
+                "width": 1976
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0009"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0010",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "10"
+        ]
+      },
+      "height": 2683,
+      "width": 1987,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0010/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0010-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0010.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0010.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2683,
+                "width": 1987
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0010"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0011",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "11"
+        ]
+      },
+      "height": 2672,
+      "width": 1976,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0011/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0011-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0011.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0011.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2672,
+                "width": 1976
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0011"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0012",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "12"
+        ]
+      },
+      "height": 2683,
+      "width": 1987,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0012/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0012-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0012.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0012.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2683,
+                "width": 1987
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0012"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0013",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "13"
+        ]
+      },
+      "height": 2672,
+      "width": 1976,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0013/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0013-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0013.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0013.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2672,
+                "width": 1976
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0013"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0014",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "14"
+        ]
+      },
+      "height": 2683,
+      "width": 1994,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0014/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0014-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0014.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0014.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2683,
+                "width": 1994
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0015",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "15"
+        ]
+      },
+      "height": 2676,
+      "width": 1957,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0015/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0015-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0015.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0015.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2676,
+                "width": 1957
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0015"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0016",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "16"
+        ]
+      },
+      "height": 2683,
+      "width": 1994,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0016/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0016-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0016.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0016.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2683,
+                "width": 1994
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0016"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0017",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "17"
+        ]
+      },
+      "height": 2676,
+      "width": 1957,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0017/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0017-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0017.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0017.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2676,
+                "width": 1957
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0018",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "18"
+        ]
+      },
+      "height": 2690,
+      "width": 2008,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0018/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0018-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0018.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0018.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2690,
+                "width": 2008
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0018"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0019",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "19"
+        ]
+      },
+      "height": 2676,
+      "width": 1961,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0019/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0019-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0019.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0019.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2676,
+                "width": 1961
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0019"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0020",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "20"
+        ]
+      },
+      "height": 2698,
+      "width": 2005,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0020/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0020-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0020.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0020.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2698,
+                "width": 2005
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0021",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "21"
+        ]
+      },
+      "height": 2672,
+      "width": 1954,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0021/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0021-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0021.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0021.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2672,
+                "width": 1954
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0022",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "22"
+        ]
+      },
+      "height": 2698,
+      "width": 2005,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0022/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0022-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0022.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0022.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2698,
+                "width": 2005
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0023",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "23"
+        ]
+      },
+      "height": 2672,
+      "width": 1954,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0023/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0023-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0023.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0023.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2672,
+                "width": 1954
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0024",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "24"
+        ]
+      },
+      "height": 2698,
+      "width": 1990,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0024/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0024-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0024.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0024.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2698,
+                "width": 1990
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0025",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "25"
+        ]
+      },
+      "height": 2672,
+      "width": 1954,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0025/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0025-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0025.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0025.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2672,
+                "width": 1954
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0026",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "26"
+        ]
+      },
+      "height": 2698,
+      "width": 1990,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0026/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0026-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0026.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0026.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2698,
+                "width": 1990
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0027",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "27"
+        ]
+      },
+      "height": 2672,
+      "width": 1954,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0027/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0027-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0027.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0027.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2672,
+                "width": 1954
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0027"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0028",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "28"
+        ]
+      },
+      "height": 2698,
+      "width": 1990,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0028/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0028-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0028.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0028.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2698,
+                "width": 1990
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0028"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0029",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "29"
+        ]
+      },
+      "height": 2672,
+      "width": 1954,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0029/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0029-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0029.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0029.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2672,
+                "width": 1954
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0029"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0030",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "30"
+        ]
+      },
+      "height": 2698,
+      "width": 1994,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0030/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0030-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0030.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0030.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2698,
+                "width": 1994
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0030"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0031",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "31"
+        ]
+      },
+      "height": 2672,
+      "width": 1954,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0031/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0031-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0031.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0031.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2672,
+                "width": 1954
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0031"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0032",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "32"
+        ]
+      },
+      "height": 2702,
+      "width": 1994,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0032/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0032-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0032.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0032.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2702,
+                "width": 1994
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0032"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0033",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "33"
+        ]
+      },
+      "height": 2672,
+      "width": 1954,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0033/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0033-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0033.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0033.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2672,
+                "width": 1954
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0033"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0034",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "34"
+        ]
+      },
+      "height": 2676,
+      "width": 1982,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0034/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0034-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0034.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0034.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2676,
+                "width": 1982
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0034"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0035",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "35"
+        ]
+      },
+      "height": 2647,
+      "width": 1954,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0035/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0035-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0035.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0035.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2647,
+                "width": 1954
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0035"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0036",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "36"
+        ]
+      },
+      "height": 2676,
+      "width": 1982,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0036/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0036-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0036.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0036.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2676,
+                "width": 1982
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0036"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0037",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "37"
+        ]
+      },
+      "height": 2647,
+      "width": 1954,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0037/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0037-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0037.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0037.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2647,
+                "width": 1954
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0037"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0038",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "38"
+        ]
+      },
+      "height": 2680,
+      "width": 1982,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0038/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0038-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0038.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0038.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2680,
+                "width": 1982
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0038"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0039",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "39"
+        ]
+      },
+      "height": 2647,
+      "width": 1950,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0039/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0039-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0039.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0039.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2647,
+                "width": 1950
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0039"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0040",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "40"
+        ]
+      },
+      "height": 2680,
+      "width": 1982,
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/page/p0040/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856/annotation/p0040-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0040.jp2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://dlib2.biblhertz.it/iiif/3/ac13991856@0040.jp2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2680,
+                "width": 1982
+              },
+              "target": "https://dlib2.biblhertz.it/iiif/3/ac13991856/canvas/p0040"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

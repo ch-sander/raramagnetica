@@ -52,7 +52,19 @@
       },
       "value": {
         "none": [
-          "¹Gotha, Forschungsbibliothek, Chart. A 707, fols. 184r–188v<br/>²Gotha, Forschungsbibliothek, Chart. A 707, fols. 190r–202v"
+          "Gotha, Forschungsbibliothek"
+        ]
+      }
+    },
+	{
+      "label": {
+        "en": [
+          "shelfmark"
+        ]
+      },
+      "value": {
+        "none": [
+          "¹Chart. A 707, fols. 184r–188v<br/>²Chart. A 707, fols. 190r–202v"
         ]
       }
     },

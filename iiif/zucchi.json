@@ -102,7 +102,7 @@
         "none": [
           "<span><a href=\"https://ch-sander.github.io/raramagnetica/\">rara magnetica</a> by Christoph Sander</span>"
         ]
-      }
+    }
     },
     {
       "label": {
@@ -188,7 +188,7 @@
     }
   ],
   "start": {
-    "id": "https://dlib2.biblhertz.it/iiif/3/bncrges1323/canvas/p0005",
+    "id": "https://dlib2.biblhertz.it/iiif/3/bncrges1323/canvas/p0001",
     "type": "Canvas"
   },
   "items": [
