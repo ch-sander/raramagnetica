@@ -92,6 +92,30 @@
         ]
       }
     },
+	{
+      "label": {
+        "en": [
+          "hosted by"
+        ]
+      },
+      "value": {
+        "none": [
+          "<span><a href=\"https://www.biblhertz.it\">BHMPI Rome</a></span>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "part of"
+        ]
+      },
+      "value": {
+        "none": [
+          "<span><a href=\"https://ch-sander.github.io/raramagnetica/\">rara magnetica</a> by Christoph Sander</span>"
+        ]
+      }
+    },
     {
       "label": {
         "en": [
