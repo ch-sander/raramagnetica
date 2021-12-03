@@ -4,7 +4,7 @@
 
 This image database lists all known 174 images related to Petrus Peregrinus’ _Epistola de magnete_ up to the seventeenth century.
 
-Peregrinus wrote his two-part letter on the properties (part one) and applications (part two) of the magnet in 1269. This first study on magnetism survived in more than fifty manuscript copies, but no autograph is extant. The treatise was transmitted in a long version and different short versions, one of which was also integrated into the so-called _Secretum philosophorum_. Different translations into English and Italian are extant. In the early modern period, the letter was printed several times, under different author names and with some changes to the text (of most manuscripts).
+Peregrinus wrote his two-part letter on the properties (part one) and applications (part two) of the magnet in 1269. This first study on magnetism survived in more than fifty manuscript copies, but no autograph is extant. The treatise was transmitted in a long version and different short versions, one of which was also integrated into the so-called _Secretum philosophorum_. Different translations into English and Italian are extant. In the early modern period, the letter was printed several times, under different author names and with some changes to the text (of most manuscripts). See a list of sources [here] (../../peregrinus_images_census.html).
 
 For more information and bibliography see:
 
