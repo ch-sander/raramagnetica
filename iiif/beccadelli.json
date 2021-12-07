@@ -197,7 +197,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "1"
+          "[blank]"
         ]
       },
       "height": 2654,
@@ -236,7 +236,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "2"
+          "[blank]"
         ]
       },
       "height": 2681,
@@ -275,7 +275,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "3"
+          "1"
         ]
       },
       "height": 2681,
@@ -314,7 +314,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "4"
+          "2"
         ]
       },
       "height": 2681,
@@ -353,7 +353,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "5"
+          "3"
         ]
       },
       "height": 2681,
@@ -392,7 +392,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "6"
+          "4"
         ]
       },
       "height": 2681,
@@ -431,7 +431,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "7"
+          "5"
         ]
       },
       "height": 2681,
@@ -470,7 +470,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "8"
+          "6"
         ]
       },
       "height": 2681,
@@ -509,7 +509,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "9"
+          "7"
         ]
       },
       "height": 2681,
@@ -548,7 +548,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "10"
+          "8"
         ]
       },
       "height": 2681,
@@ -587,7 +587,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "11"
+          "9"
         ]
       },
       "height": 2681,
@@ -626,7 +626,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "12"
+          "10"
         ]
       },
       "height": 2681,
@@ -665,7 +665,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "13"
+          "11"
         ]
       },
       "height": 2681,
@@ -704,7 +704,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "14"
+          "12"
         ]
       },
       "height": 2681,
@@ -743,7 +743,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "15"
+          "13"
         ]
       },
       "height": 2681,
@@ -782,7 +782,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "16"
+          "14"
         ]
       },
       "height": 2681,
@@ -821,7 +821,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "17"
+          "15"
         ]
       },
       "height": 2681,
@@ -860,7 +860,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "18"
+          "16"
         ]
       },
       "height": 2681,
@@ -899,7 +899,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "19"
+          "17"
         ]
       },
       "height": 2681,
@@ -938,7 +938,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "20"
+          "18"
         ]
       },
       "height": 2681,
@@ -977,7 +977,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "21"
+          "19"
         ]
       },
       "height": 2681,
@@ -1016,7 +1016,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "22"
+          "20"
         ]
       },
       "height": 2681,
@@ -1055,7 +1055,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "23"
+          "21"
         ]
       },
       "height": 2681,
@@ -1094,7 +1094,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "24"
+          "22"
         ]
       },
       "height": 2654,
@@ -1131,7 +1131,7 @@
   ],
   "structures": [
     {
-      "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges",
+      "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/ranges",
       "type": "Range",
       "label": {
         "en": [
@@ -1140,7 +1140,7 @@
       },
       "items": [
         {
-          "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges/3",
+          "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/ranges/3",
           "type": "Range",
           "label": {
             "en": [
@@ -1149,11 +1149,11 @@
           },
           "items": [
             {
-              "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/canvas/p0003",
+              "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/canvas/p0003",
               "type": "Canvas"
             },
             {
-              "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges/5",
+              "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/ranges/5",
               "type": "Range",
               "label": {
                 "en": [
@@ -1162,13 +1162,13 @@
               },
               "items": [
                 {
-                  "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/canvas/p0005",
+                  "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/canvas/p0005",
                   "type": "Canvas"
                 }
               ]
             },
             {
-              "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges/6",
+              "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/ranges/6",
               "type": "Range",
               "label": {
                 "en": [
@@ -1177,13 +1177,13 @@
               },
               "items": [
                 {
-                  "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/canvas/p0006",
+                  "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/canvas/p0006",
                   "type": "Canvas"
                 }
               ]
             },
             {
-              "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges/7",
+              "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/ranges/7",
               "type": "Range",
               "label": {
                 "en": [
@@ -1192,13 +1192,13 @@
               },
               "items": [
                 {
-                  "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/canvas/p0006",
+                  "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/canvas/p0006",
                   "type": "Canvas"
                 }
               ]
             },
             {
-              "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges/10",
+              "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/ranges/10",
               "type": "Range",
               "label": {
                 "en": [
@@ -1207,13 +1207,13 @@
               },
               "items": [
                 {
-                  "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/canvas/p0009",
+                  "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/canvas/p0009",
                   "type": "Canvas"
                 }
               ]
             },
             {
-              "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges/11",
+              "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/ranges/11",
               "type": "Range",
               "label": {
                 "en": [
@@ -1222,13 +1222,13 @@
               },
               "items": [
                 {
-                  "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/canvas/p0010",
+                  "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/canvas/p0010",
                   "type": "Canvas"
                 }
               ]
             },
             {
-              "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges/14",
+              "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/ranges/14",
               "type": "Range",
               "label": {
                 "en": [
@@ -1237,13 +1237,13 @@
               },
               "items": [
                 {
-                  "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/canvas/p0013",
+                  "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/canvas/p0013",
                   "type": "Canvas"
                 }
               ]
             },
             {
-              "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges/16",
+              "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/ranges/16",
               "type": "Range",
               "label": {
                 "en": [
@@ -1252,13 +1252,13 @@
               },
               "items": [
                 {
-                  "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/canvas/p0015",
+                  "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/canvas/p0015",
                   "type": "Canvas"
                 }
               ]
             },
             {
-              "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges/18",
+              "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/ranges/18",
               "type": "Range",
               "label": {
                 "en": [
@@ -1267,13 +1267,13 @@
               },
               "items": [
                 {
-                  "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/canvas/p0017",
+                  "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/canvas/p0017",
                   "type": "Canvas"
                 }
               ]
             },
             {
-              "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges/19",
+              "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/ranges/19",
               "type": "Range",
               "label": {
                 "en": [
@@ -1282,13 +1282,13 @@
               },
               "items": [
                 {
-                  "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/canvas/p0017",
+                  "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/canvas/p0017",
                   "type": "Canvas"
                 }
               ]
             },
             {
-              "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges/21",
+              "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/ranges/21",
               "type": "Range",
               "label": {
                 "en": [
@@ -1297,13 +1297,13 @@
               },
               "items": [
                 {
-                  "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/canvas/p0019",
+                  "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/canvas/p0019",
                   "type": "Canvas"
                 }
               ]
             },
             {
-              "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges/25",
+              "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/ranges/25",
               "type": "Range",
               "label": {
                 "en": [
@@ -1312,7 +1312,7 @@
               },
               "items": [
                 {
-                  "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/canvas/p0023",
+                  "id": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/canvas/p0023",
                   "type": "Canvas"
                 }
               ]

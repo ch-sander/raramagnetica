@@ -197,7 +197,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "1"
+          "1r"
         ]
       },
       "height": 6105,
@@ -236,7 +236,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "2"
+          "1v"
         ]
       },
       "height": 6105,
@@ -275,7 +275,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "3"
+          "2r"
         ]
       },
       "height": 6105,
@@ -314,7 +314,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "4"
+          "2v"
         ]
       },
       "height": 6105,
@@ -353,7 +353,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "5"
+          "3r"
         ]
       },
       "height": 6105,
@@ -390,7 +390,7 @@
   ],
   "structures": [
     {
-      "id": "https://dlib.biblhertz.it/iiif/khagenarna2403/ranges",
+      "id": "https://dlib2.biblhertz.it/iiif/3/khagenarna2403/ranges",
       "type": "Range",
       "label": {
         "en": [
