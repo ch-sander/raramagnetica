@@ -236,7 +236,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "2"
+          "*"
         ]
       },
       "height": 9979,
@@ -353,7 +353,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "5"
+          "[title]"
         ]
       },
       "height": 9979,
@@ -392,7 +392,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "6"
+          "*"
         ]
       },
       "height": 9979,
