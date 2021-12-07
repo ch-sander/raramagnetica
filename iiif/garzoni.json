@@ -18102,6 +18102,1701 @@
                 {
                   "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0007",
                   "type": "Canvas"
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/8",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "Introdutione"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0007",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/12",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "Prima parte"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0011",
+                      "type": "Canvas"
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/13",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "cap. 1"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0011",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/25",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "cap. 2"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0023",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/29",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "cap. 3"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0027",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/38",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "cap. 4"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0036",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/49",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "cap. 5"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0047",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/64",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "cap. 6"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0062",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/69",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "cap. 7"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0067",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/80",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "cap. 8"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0078",
+                          "type": "Canvas"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/113",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "Seconda parte"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0111",
+                      "type": "Canvas"
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/114",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "cap. 1"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0112",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/117",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "cap. 2"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0115",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/141",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "cap. 3"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0139",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/145",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "cap. 4"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0143",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/168",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "cap. 5"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0166",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/181",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "cap. 6"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0179",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/204",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "cap. 7"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0202",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/236",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "cap. 8"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0234",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/256",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "cap. 9"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0254",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/271",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "cap. 10"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0269",
+                          "type": "Canvas"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/287",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Libro secondo"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0285",
+                  "type": "Canvas"
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/288",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "Introdutione"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0285",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/290",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "Prima parte"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0287",
+                      "type": "Canvas"
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/291",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "cap. 1"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0287",
+                          "type": "Canvas"
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/292",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 1"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0287",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/295",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 2"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0290",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/296",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 3"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0291",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/298",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 4"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0293",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/299",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 5"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0294",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/301",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 6"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0296",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/302",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 7"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0297",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/304",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 8"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0299",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/306",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 9"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0301",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/307",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 10"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0302",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/308",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 11"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0303",
+                              "type": "Canvas"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/309",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "cap. 2"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0304",
+                          "type": "Canvas"
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/310",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 1"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0304",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/312",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 2"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0306",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/313",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 3"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0307",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/315",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 4"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0309",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/319",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 5"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0313",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/322",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 6"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0316",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/325",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 7"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0319",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/327",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 8"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0321",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/328",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 9"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0322",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/331",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 10"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0325",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/333",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 11"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0327",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/334",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 12"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0328",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/337",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 13"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0331",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/339",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 14"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0333",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/341",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 15"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0335",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/343",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 16"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0337",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/346",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 17"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0340",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/348",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 18"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0342",
+                              "type": "Canvas"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/351",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "cap. 3"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0345",
+                          "type": "Canvas"
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/354",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 1"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0348",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/362",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 2"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0356",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/368",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 3"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0362",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/374",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 4"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0368",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/377",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 5"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0371",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/378",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 6"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0372",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/379",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 7"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0373",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/380",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 8"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0374",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/382",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 9"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0376",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/384",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 10"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0378",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/385",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 11"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0379",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/386",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 12"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0379",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/388",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 13"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0381",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/389",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 14"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0382",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/393",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 15"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0386",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/395",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 16"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0388",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/396",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 17"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0389",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/398",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 18"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0391",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/399",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 19"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0392",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/401",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 20"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0394",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/402",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 21"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0394",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/403",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 22"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0395",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/405",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 23"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0397",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/407",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 24"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0399",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/408",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 25"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0400",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/411",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 26"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0403",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/413",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 27"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0405",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/416",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 28"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0408",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/420",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 29"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0412",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/421",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 30"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0412",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/423",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 31"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0414",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/424",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 32"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0415",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/426",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 33"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0417",
+                              "type": "Canvas"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/431",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "Seconda parte"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0422",
+                      "type": "Canvas"
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/432",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "Divisione"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0422",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/433",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "cap. 1"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0423",
+                          "type": "Canvas"
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/434",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 1"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0423",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/436",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 2"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0425",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/438",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 3"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0427",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/440",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 4"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0429",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/442",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 5"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0431",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/443",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 6"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0431",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/444",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 7"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0432",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/445",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 8"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0433",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/446",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 9"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0434",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/448",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 10"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0436",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/449",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 11"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0437",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/450",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 12"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0438",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/452",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 13"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0440",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/454",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 14"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0442",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/456",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 15"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0444",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/457",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 16"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0445",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/458",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 17"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0445",
+                              "type": "Canvas"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/460",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "cap. 2"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0447",
+                          "type": "Canvas"
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/461",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 1"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0447",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/463",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 2"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0449",
+                              "type": "Canvas"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/ranges/466",
+                          "type": "Range",
+                          "label": {
+                            "en": [
+                              "Theorema 3"
+                            ]
+                          },
+                          "items": [
+                            {
+                              "id": "https://dlib2.biblhertz.it/iiif/3/bdh0000089635/canvas/p0452",
+                              "type": "Canvas"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
