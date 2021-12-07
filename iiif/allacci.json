@@ -20,7 +20,7 @@
         ]
       }
     },
-	{
+    {
       "label": {
         "en": [
           "title"
@@ -44,7 +44,7 @@
         ]
       }
     },
-	{
+    {
       "label": {
         "en": [
           "held by"
@@ -80,7 +80,7 @@
         ]
       }
     },
-	{
+    {
       "label": {
         "en": [
           "hosted by"
@@ -33493,6 +33493,964 @@
                 "width": 8041
               },
               "target": "https://dlib2.biblhertz.it/iiif/3/bvallallaccilxxvii/canvas/p0854"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Table of Contents"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/7",
+          "type": "Range",
+          "label": {
+            "en": [
+              "De magnete libri tres (autograph by Allacci)"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0007",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/8",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Liber 1"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0007",
+                  "type": "Canvas"
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/9",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 1"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0007",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/11",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 2"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0009",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/19",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 3"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0017",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/26",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 4"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0024",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/30",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 5"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0028",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/39",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 6"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0037",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/47",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 7"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0045",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/60",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 8"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0058",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/69",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 9"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0067",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/81",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 10"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0079",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/88",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 11"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0086",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/96",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 12"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0094",
+                      "type": "Canvas"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/99",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Liber 2"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0097",
+                  "type": "Canvas"
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/100",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 1"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0097",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/106",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 2"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0103",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/111",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 3"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0108",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/116",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 4"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0113",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/121",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 5"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0118",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/127",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 6"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0124",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/131",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 7"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0128",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/140",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 8"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0137",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/142",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "[pasting]"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0139",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/145",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 9"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0142",
+                      "type": "Canvas"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/152",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Liber 3"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0149",
+                  "type": "Canvas"
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/153",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 1"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0149",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/159",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "[pasting]"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0155",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/160",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "[pasting]"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0156",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/164",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 2"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0160",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/175",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 3"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0171",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/184",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 4"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0180",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/195",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 5*"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0191",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/200",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 6"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0196",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/205",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 7"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0201",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/216",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 8"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0212",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/225",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 9"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0221",
+                      "type": "Canvas"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/243",
+          "type": "Range",
+          "label": {
+            "en": [
+              "De magnete libri tres (apograph by Vernazza)"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0239",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/245",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[Illustrations of Book 2]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0241",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/255",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Liber 1"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0251",
+                  "type": "Canvas"
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/256",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 1"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0251",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/267",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 2"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0262",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/301",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 3"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0296",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/319",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 4"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0314",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/338",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 5"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0333",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/359",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 6"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0354",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/375",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 7"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0370",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/400",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 8"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0395",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/425",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 9"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0420",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/472",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 10"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0467",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/496",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 11"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0491",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/524",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 12"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0519",
+                      "type": "Canvas"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/526",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Liber 3"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0521",
+                  "type": "Canvas"
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/527",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 1"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0521",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/562",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 2"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0556",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/603",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 3"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0597",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/620",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 4"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0614",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/638",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 5"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0632",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/680",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 5*"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0674",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/697",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 6"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0691",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/715",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 7"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0709",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/765",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 8"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0759",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/ranges/794",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "cap. 9"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib.biblhertz.it/iiif/bvallallaccilxxvii/canvas/p0788",
+                      "type": "Canvas"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }

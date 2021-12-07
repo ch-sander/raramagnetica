@@ -20,7 +20,7 @@
         ]
       }
     },
-	{
+    {
       "label": {
         "en": [
           "title"
@@ -68,7 +68,7 @@
         ]
       }
     },
-	{
+    {
       "label": {
         "en": [
           "catalogue"
@@ -80,7 +80,7 @@
         ]
       }
     },
-	{
+    {
       "label": {
         "en": [
           "hosted by"
@@ -386,6 +386,17 @@
           ]
         }
       ]
+    }
+  ],
+  "structures": [
+    {
+      "id": "https://dlib.biblhertz.it/iiif/khagenarna2403/ranges",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Table of Contents"
+        ]
+      }
     }
   ]
 }

@@ -20,7 +20,7 @@
         ]
       }
     },
-	{
+    {
       "label": {
         "en": [
           "title"
@@ -32,7 +32,7 @@
         ]
       }
     },
-	{
+    {
       "label": {
         "en": [
           "date"
@@ -68,7 +68,7 @@
         ]
       }
     },
-	{
+    {
       "label": {
         "en": [
           "catalogue"
@@ -80,7 +80,7 @@
         ]
       }
     },
-	{
+    {
       "label": {
         "en": [
           "hosted by"
@@ -1123,6 +1123,199 @@
                 "width": 1847
               },
               "target": "https://dlib2.biblhertz.it/iiif/3/parmafpal103326/canvas/p0024"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Table of Contents"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges/3",
+          "type": "Range",
+          "label": {
+            "en": [
+              "De magnete"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/canvas/p0003",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges/5",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[Albertus Magnus]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/canvas/p0005",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges/6",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[Marbod of Rennes]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/canvas/p0006",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges/7",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[Evax]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/canvas/p0006",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges/10",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[Albertus Magnus]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/canvas/p0009",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges/11",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[Salmanasar]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/canvas/p0010",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges/14",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[Hermes Trismegistos]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/canvas/p0013",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges/16",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[Georg Agricola]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/canvas/p0015",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges/18",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[Pliny]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/canvas/p0017",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges/19",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[Rufinus]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/canvas/p0017",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges/21",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[Georg Agricola]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/canvas/p0019",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/ranges/25",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[Gerolamo Fracastoro]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib.biblhertz.it/iiif/parmafpal103326/canvas/p0023",
+                  "type": "Canvas"
+                }
+              ]
             }
           ]
         }
