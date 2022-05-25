@@ -11,7 +11,7 @@
     "tsne": "data/tsne.csv",
     "textures": {
       "medium": {
-        "size": 256,
+        "size": 80,
         "url": "data/sprites/spritesheet.json"
       },
       "detail": {
@@ -40,7 +40,7 @@
     "searchbarBackground": "#8d8d8d"
   },
   "projection": {
-    "columns": 4
+    "columns": 6
   },
   "detail": {
     "structure": [ 
