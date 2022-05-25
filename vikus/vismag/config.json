@@ -1,0 +1,91 @@
+{
+  "project": {
+    "name": "Early Modern Magnetism Image Database",
+    "quality": 1,
+    "multiple": true
+ },
+  "loader": {
+    "info": "https://ch-sander.github.io/raramagnetica/vikus/vismag/info.md",
+    "timeline": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwWjXBEoypEp9WZEPuot3Y3A7KzdUmv6GDfNX8iOoWmme9SpUSuTljSrZa8FLin8XQzrtR5mrb7wQw/pub?gid=420161362&single=true&output=csv",
+    "items": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwWjXBEoypEp9WZEPuot3Y3A7KzdUmv6GDfNX8iOoWmme9SpUSuTljSrZa8FLin8XQzrtR5mrb7wQw/pub?gid=20586140&single=true&output=csv",
+    "tsne": "data/tsne.csv",
+    "textures": {
+      "medium": {
+        "size": 256,
+        "url": "data/sprites/spritesheet.json"
+      },
+      "detail": {
+        "size": 1024,
+        "url": "data/1024/"
+      },
+      "big": {
+        "size": 4096,
+        "url": "data/4096/"
+      }
+    }
+  },
+  "style": {
+    "fontColor": "#2d3b43",
+    "fontColorActive": "#FF00FF",
+    "fontBackground": "#F2F2F2",
+    "textShadow": "1px 1px 0px #f8f4e9",
+    "canvasBackground": "#F2F2F2",
+    "timelineBackground": "#F2F2F2",
+    "timelineFontColor": "#000",
+    "backgroundHeader": "#035151",
+    "fontColorHeader": "#f8774f",
+    "detailBackground": "#F2F2F2",
+    "infoBackground": "#8d8d8d",
+    "infoFontColor": "#fff",
+    "searchbarBackground": "#8d8d8d"
+  },
+  "projection": {
+    "columns": 4
+  },
+  "detail": {
+    "structure": [ 
+      {
+        "name": "Image ID",
+        "source": "_id",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Source",
+        "source": "_source",
+        "display": "wide",
+        "type": "markdown"
+      },
+      {
+        "name": "Transcription of Page",
+        "source": "_rsurl",
+        "display": "wide",
+        "type": "markdown"
+      },
+      {
+        "name": "Transcription of Image Text",
+        "source": "_regiontext",
+        "display": "wide",
+        "type": "markdown"
+      },
+      {
+        "name": "Medium",
+        "source": "_medium",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Notes",
+        "source": "_notes",
+        "display": "wide",
+        "type": "markdown"
+      },
+      {
+        "name": "Keywords",
+        "source": "_keywords",
+        "display": "column",
+        "type": "array"
+      }
+    ]
+  }
+}
