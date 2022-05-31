@@ -8,7 +8,7 @@ DOI: [https://doi.org/10.48431/res/qk19-bj96/vikus/vismag](https://doi.org/10.48
 
 For more information and bibliography see:
 
-A list of sources included in the current version [here](https://ch-sander.github.io/raramagnetica/vikus/vismag/sources.html).
+A list of sources included in the current version [here](https://ch-sander.github.io/raramagnetica/vismag_sources.html).
 
 Christoph Sander, Magnes: _der Magnetstein und der Magnetismus in den Wissenschaften der Frühen Neuzeit_, Mittellateinische Studien und Texte 53 (Leiden; Boston: Brill, 2020), 295–98, [DOI](https://doi.org/10.1163/9789004419414).
 
