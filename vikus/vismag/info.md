@@ -18,7 +18,11 @@ Each image has precise metadata (click on any item or zoom in) and the full page
 
 ![tags](img/infobar_tags_b.svg)
 
-The keywords represent the most common themes in the images, including their content, their visual styles and the materiality. Tags marked as '(work)' relate to the work the image is contained in. For a full documentation, see [PDF](https://ch-sander.github.io/raramagnetica/docs/tags.pdf) and [HTML](https://ch-sander.github.io/raramagnetica/tags.html). Click on the keywords to narrow the selection of images.
+The keywords represent the most common themes in the images, including their content, their visual styles and the materiality. Tags marked as '(work)' relate to the work the image is contained in. For a full documentation, see [PDF](https://ch-sander.github.io/raramagnetica/docs/tags.pdf) and [HTML](https://ch-sander.github.io/raramagnetica/tags.html).
+
+See statistics for all tags used [here](https://ch-sander.github.io/raramagnetica/vismag_stats.html).
+
+Click on the keywords to narrow the selection of images.
 
 ![time](img/infobar_time_b.svg)
 
