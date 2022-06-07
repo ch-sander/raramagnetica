@@ -7,7 +7,7 @@
       "Italian translation and latin edition of Petrus Peregrinus, De Magnete"
     ]
   },
-   "metadata": [
+  "metadata": [
     {
       "label": {
         "en": [
@@ -80,7 +80,7 @@
         ]
       }
     },
-    	{
+    {
       "label": {
         "en": [
           "hosted by"
@@ -197,7 +197,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "1"
+          "[binding]"
         ]
       },
       "height": 4724,
@@ -236,7 +236,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "2"
+          "[front leaf]"
         ]
       },
       "height": 3198,
@@ -275,7 +275,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "3"
+          "[front leaf]"
         ]
       },
       "height": 3198,
@@ -314,7 +314,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "4"
+          "[front leaf]"
         ]
       },
       "height": 3198,
@@ -353,7 +353,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "5"
+          "1r"
         ]
       },
       "height": 3198,
@@ -392,7 +392,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "6"
+          "1v"
         ]
       },
       "height": 3198,
@@ -431,7 +431,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "7"
+          "2r"
         ]
       },
       "height": 3198,
@@ -470,7 +470,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "8"
+          "2v"
         ]
       },
       "height": 3198,
@@ -509,7 +509,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "9"
+          "3r"
         ]
       },
       "height": 3198,
@@ -548,7 +548,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "10"
+          "3v"
         ]
       },
       "height": 3198,
@@ -587,7 +587,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "11"
+          "4r"
         ]
       },
       "height": 3198,
@@ -626,7 +626,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "12"
+          "4v"
         ]
       },
       "height": 3198,
@@ -665,7 +665,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "13"
+          "5r"
         ]
       },
       "height": 3198,
@@ -704,7 +704,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "14"
+          "5v"
         ]
       },
       "height": 3198,
@@ -743,7 +743,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "15"
+          "6r"
         ]
       },
       "height": 3198,
@@ -782,7 +782,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "16"
+          "6v"
         ]
       },
       "height": 3198,
@@ -821,7 +821,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "17"
+          "[blank]"
         ]
       },
       "height": 3198,
@@ -860,7 +860,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "18"
+          "[blank]"
         ]
       },
       "height": 3198,
@@ -899,7 +899,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "19"
+          "7r"
         ]
       },
       "height": 3198,
@@ -938,7 +938,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "20"
+          "7v"
         ]
       },
       "height": 3198,
@@ -977,7 +977,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "21"
+          "8r"
         ]
       },
       "height": 3198,
@@ -1016,7 +1016,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "22"
+          "8v"
         ]
       },
       "height": 3198,
@@ -1055,7 +1055,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "23"
+          "[blank]"
         ]
       },
       "height": 3198,
@@ -1094,7 +1094,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "24"
+          "[blank]"
         ]
       },
       "height": 3198,
@@ -1133,7 +1133,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "25"
+          "[blank]"
         ]
       },
       "height": 3198,
@@ -1172,7 +1172,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "26"
+          "[blank]"
         ]
       },
       "height": 3198,
@@ -1211,7 +1211,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "27"
+          "9r"
         ]
       },
       "height": 3198,
@@ -1250,7 +1250,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "28"
+          "9v"
         ]
       },
       "height": 3198,
@@ -1289,7 +1289,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "29"
+          "10r"
         ]
       },
       "height": 3198,
@@ -1328,7 +1328,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "30"
+          "10v"
         ]
       },
       "height": 3198,
@@ -1367,7 +1367,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "31"
+          "11r"
         ]
       },
       "height": 3198,
@@ -1406,7 +1406,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "32"
+          "11v"
         ]
       },
       "height": 3198,
@@ -1445,7 +1445,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "33"
+          "12r"
         ]
       },
       "height": 3198,
@@ -1484,7 +1484,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "34"
+          "12v"
         ]
       },
       "height": 3198,
@@ -1523,7 +1523,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "35"
+          "13r"
         ]
       },
       "height": 3198,
@@ -1562,7 +1562,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "36"
+          "13v"
         ]
       },
       "height": 3198,
@@ -1601,7 +1601,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "37"
+          "14r"
         ]
       },
       "height": 3198,
@@ -1640,7 +1640,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "38"
+          "14v"
         ]
       },
       "height": 3198,
@@ -1679,7 +1679,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "39"
+          "15r"
         ]
       },
       "height": 3198,
@@ -1718,7 +1718,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "40"
+          "15v"
         ]
       },
       "height": 3198,
@@ -1757,7 +1757,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "41"
+          "16r"
         ]
       },
       "height": 3198,
@@ -1796,7 +1796,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "42"
+          "16v"
         ]
       },
       "height": 3198,
@@ -1835,7 +1835,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "43"
+          "17r"
         ]
       },
       "height": 3198,
@@ -1874,7 +1874,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "44"
+          "17v"
         ]
       },
       "height": 3198,
@@ -1913,7 +1913,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "45"
+          "18r"
         ]
       },
       "height": 3198,
@@ -1952,7 +1952,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "46"
+          "18v"
         ]
       },
       "height": 3198,
@@ -1991,7 +1991,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "47"
+          "19r"
         ]
       },
       "height": 3198,
@@ -2030,7 +2030,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "48"
+          "19v"
         ]
       },
       "height": 3198,
@@ -2069,7 +2069,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "49"
+          "20r"
         ]
       },
       "height": 3198,
@@ -2108,7 +2108,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "50"
+          "20v"
         ]
       },
       "height": 3198,
@@ -2147,7 +2147,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "51"
+          "21r"
         ]
       },
       "height": 3198,
@@ -2186,7 +2186,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "52"
+          "21v"
         ]
       },
       "height": 3890,
@@ -2225,7 +2225,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "53"
+          "22r"
         ]
       },
       "height": 3890,
@@ -2264,7 +2264,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "54"
+          "22v"
         ]
       },
       "height": 3115,
@@ -2303,7 +2303,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "55"
+          "23r"
         ]
       },
       "height": 3115,
@@ -2342,7 +2342,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "56"
+          "23v"
         ]
       },
       "height": 3115,
@@ -2381,7 +2381,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "57"
+          "24r"
         ]
       },
       "height": 3115,
@@ -2420,7 +2420,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "58"
+          "24v"
         ]
       },
       "height": 3115,
@@ -2459,7 +2459,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "59"
+          "25r"
         ]
       },
       "height": 3115,
@@ -2498,7 +2498,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "60"
+          "25v"
         ]
       },
       "height": 3115,
@@ -2537,7 +2537,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "61"
+          "[26r]"
         ]
       },
       "height": 3115,
@@ -2576,7 +2576,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "62"
+          "[26v]"
         ]
       },
       "height": 3115,
@@ -2615,7 +2615,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "63"
+          "26r"
         ]
       },
       "height": 3115,
@@ -2654,7 +2654,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "64"
+          "26v"
         ]
       },
       "height": 3115,
@@ -2693,7 +2693,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "65"
+          "27r"
         ]
       },
       "height": 3115,
@@ -2732,7 +2732,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "66"
+          "27v"
         ]
       },
       "height": 3115,
@@ -2771,7 +2771,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "67"
+          "28r"
         ]
       },
       "height": 3115,
@@ -2810,7 +2810,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "68"
+          "28v"
         ]
       },
       "height": 3115,
@@ -2849,7 +2849,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "69"
+          "29r"
         ]
       },
       "height": 3115,
@@ -2888,7 +2888,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "70"
+          "29v"
         ]
       },
       "height": 3115,
@@ -2927,7 +2927,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "71"
+          "30r"
         ]
       },
       "height": 3115,
@@ -2966,7 +2966,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "72"
+          "30v"
         ]
       },
       "height": 3115,
@@ -3005,7 +3005,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "73"
+          "31r"
         ]
       },
       "height": 3115,
@@ -3044,7 +3044,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "74"
+          "31v"
         ]
       },
       "height": 3115,
@@ -3083,7 +3083,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "75"
+          "32r"
         ]
       },
       "height": 3115,
@@ -3122,7 +3122,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "76"
+          "32v"
         ]
       },
       "height": 3115,
@@ -3161,7 +3161,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "77"
+          "33r"
         ]
       },
       "height": 3115,
@@ -3200,7 +3200,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "78"
+          "33v"
         ]
       },
       "height": 3115,
@@ -3239,7 +3239,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "79"
+          "34r"
         ]
       },
       "height": 3115,
@@ -3278,7 +3278,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "80"
+          "34v"
         ]
       },
       "height": 3115,
@@ -3317,7 +3317,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "81"
+          "35r"
         ]
       },
       "height": 3115,
@@ -3356,7 +3356,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "82"
+          "35v"
         ]
       },
       "height": 3115,
@@ -3395,7 +3395,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "83"
+          "36r"
         ]
       },
       "height": 3115,
@@ -3434,7 +3434,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "84"
+          "[end leaf]"
         ]
       },
       "height": 3115,
@@ -3473,7 +3473,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "85"
+          "[end leaf]"
         ]
       },
       "height": 3115,
@@ -3502,6 +3502,544 @@
                 "width": 2362
               },
               "target": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0085"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Table of Contents"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/5",
+          "type": "Range",
+          "label": {
+            "en": [
+              "[Italian translation]"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0005",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/6",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[illustration]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0006",
+                  "type": "Canvas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/19",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Petri Peregrini De Magnete, seu Rota perpetui motus, libellus"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0019",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/20",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[dedication letter]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0019",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/28",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[preface by A. P. Gasser]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0027",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/39",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[Peregrinus's Epistola in English translation]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0038",
+                  "type": "Canvas"
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/40",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "[first part]"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0038",
+                      "type": "Canvas"
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/41",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "[chapter 1]"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0039",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/42",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "[chapter 2]"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0040",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/43",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "[chapter 3]"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0040",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/44",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "[chapter 4]"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0041",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/46",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "[chapter 5]"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0043",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/47",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "[chapter 6]"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0044",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/48",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "[chapter 7]"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0045",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/49",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "[chapter 8]"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0046",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/50",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "[chapter 9]"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0047",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/52",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "[chapter 10]"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0049",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/56",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "[illustrations]"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0053",
+                          "type": "Canvas"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/58",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "[second part]"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0055",
+                      "type": "Canvas"
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/59",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "[chapter 1]"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0055",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/60",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "[chapter 2]"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0056",
+                          "type": "Canvas"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/62",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "[chapter 3]"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0058",
+                          "type": "Canvas"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/64",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "[A. P. Gasser to the reader]"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0060",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/66",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "[A. P. Gasser to the reader]"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0062",
+                      "type": "Canvas"
+                    }
+                  ]
+                },
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/72",
+                  "type": "Range",
+                  "label": {
+                    "en": [
+                      "[Excerpt from Cardano's De rerum varietate]"
+                    ]
+                  },
+                  "items": [
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0068",
+                      "type": "Canvas"
+                    },
+                    {
+                      "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/75",
+                      "type": "Range",
+                      "label": {
+                        "en": [
+                          "[illustration]"
+                        ]
+                      },
+                      "items": [
+                        {
+                          "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0071",
+                          "type": "Canvas"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/77",
+          "type": "Range",
+          "label": {
+            "en": [
+              "[Alchemical treatise]"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0073",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/79",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[illustration]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0075",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/80",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[illustrations]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0076",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/81",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[illustration]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0077",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/82",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[illustration]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0078",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/83",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[illustration]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0079",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/84",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[illustration]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0080",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/85",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[illustration]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0081",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/ranges/87",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "[illustration]"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10/canvas/p0083",
+                  "type": "Canvas"
+                }
+              ]
             }
           ]
         }
