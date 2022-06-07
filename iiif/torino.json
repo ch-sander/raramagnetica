@@ -1,0 +1,2353 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://dlib.biblhertz.it/iiif/bntorinogv10/manifest2.json",
+  "@type": "sc:Manifest",
+  "label": "{BNUT} G.V.10, fol. 1r–43r",
+  "description": "De Magnete",
+  "seeAlso": [],
+  "metadata": [
+    {
+      "label": "title",
+      "value": "De Magnete"
+    },
+    {
+      "label": "notes",
+      "value": "Torino, Biblioteca Nazionale Universitaria"
+    },
+    {
+      "label": "catalogue",
+      "value": "{BNUT} G.V.10, fol. 1r–43r"
+    },
+    {
+      "label": "held by",
+      "value": "<span><a href=\"https://www.biblhertz.it\">BHMPI Rome</a></span>"
+    },
+    {
+      "label": "shelf",
+      "value": "{BNUT} G.V.10, fol. 1r–43r"
+    },
+    {
+      "label": "download",
+      "value": "<span><a href=\"https://dlib.biblhertz.it/download/pdf/bntorinogv10.pdf\">PDF</a></span>"
+    }
+  ],
+  "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+  "attribution": "Provided by Bibliotheca Hertziana – Max Planck Institute for Art History, Rome.",
+  "logo": "http://dlib.biblhertz.it/favicon.png",
+  "thumbnail": {
+    "@id": "https://dlib2.biblhertz.it/iiif/3/bntorinogv10@bntorinogv10-thumbnail/full/!240,240/0/default.jpg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "profile": "http://iiif.io/api/image/2/level1.json",
+      "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0001.jp2"
+    }
+  },
+  "viewingHint": "paged",
+  "viewingDirection": "left-to-right",
+  "sequences": [
+    {
+      "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@bntorinogv10",
+      "@type": "sc:Sequence",
+      "label": "Current Page Order",
+      "viewingHint": "paged",
+      "startCanvas": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0001-canvas",
+      "canvases": [
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0001-canvas",
+          "@type": "sc:Canvas",
+          "label": "0001",
+          "width": 3634,
+          "height": 4724,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0001-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0001.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 3634,
+                "height": 4724,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0001.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0001-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0002-canvas",
+          "@type": "sc:Canvas",
+          "label": "0002",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0002-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0002.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0002.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0002-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0003-canvas",
+          "@type": "sc:Canvas",
+          "label": "0003",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0003-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0003.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0003.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0003-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0004-canvas",
+          "@type": "sc:Canvas",
+          "label": "0004",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0004-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0004.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0004.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0004-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0005-canvas",
+          "@type": "sc:Canvas",
+          "label": "0005",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0005-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0005.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0005.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0005-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0006-canvas",
+          "@type": "sc:Canvas",
+          "label": "0006",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0006-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0006.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0006.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0006-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0007-canvas",
+          "@type": "sc:Canvas",
+          "label": "0007",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0007-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0007.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0007.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0007-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0008-canvas",
+          "@type": "sc:Canvas",
+          "label": "0008",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0008-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0008.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0008.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0008-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0009-canvas",
+          "@type": "sc:Canvas",
+          "label": "0009",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0009-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0009.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0009.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0009-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0010-canvas",
+          "@type": "sc:Canvas",
+          "label": "0010",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0010-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0010.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0010.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0010-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0011-canvas",
+          "@type": "sc:Canvas",
+          "label": "0011",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0011-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0011.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0011.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0011-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0012-canvas",
+          "@type": "sc:Canvas",
+          "label": "0012",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0012-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0012.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0012.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0012-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0013-canvas",
+          "@type": "sc:Canvas",
+          "label": "0013",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0013-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0013.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0013.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0013-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0014-canvas",
+          "@type": "sc:Canvas",
+          "label": "0014",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0014-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0014.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0014.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0014-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0015-canvas",
+          "@type": "sc:Canvas",
+          "label": "0015",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0015-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0015.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0015.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0015-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0016-canvas",
+          "@type": "sc:Canvas",
+          "label": "0016",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0016-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0016.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0016.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0016-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0017-canvas",
+          "@type": "sc:Canvas",
+          "label": "0017",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0017-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0017.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0017.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0017-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0018-canvas",
+          "@type": "sc:Canvas",
+          "label": "0018",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0018-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0018.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0018.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0018-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0019-canvas",
+          "@type": "sc:Canvas",
+          "label": "0019",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0019-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0019.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0019.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0019-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0020-canvas",
+          "@type": "sc:Canvas",
+          "label": "0020",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0020-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0020.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0020.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0020-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0021-canvas",
+          "@type": "sc:Canvas",
+          "label": "0021",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0021-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0021.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0021.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0021-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0022-canvas",
+          "@type": "sc:Canvas",
+          "label": "0022",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0022-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0022.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0022.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0022-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0023-canvas",
+          "@type": "sc:Canvas",
+          "label": "0023",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0023-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0023.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0023.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0023-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0024-canvas",
+          "@type": "sc:Canvas",
+          "label": "0024",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0024-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0024.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0024.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0024-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0025-canvas",
+          "@type": "sc:Canvas",
+          "label": "0025",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0025-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0025.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0025.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0025-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0026-canvas",
+          "@type": "sc:Canvas",
+          "label": "0026",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0026-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0026.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0026.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0026-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0027-canvas",
+          "@type": "sc:Canvas",
+          "label": "0027",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0027-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0027.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0027.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0027-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0028-canvas",
+          "@type": "sc:Canvas",
+          "label": "0028",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0028-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0028.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0028.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0028-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0029-canvas",
+          "@type": "sc:Canvas",
+          "label": "0029",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0029-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0029.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0029.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0029-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0030-canvas",
+          "@type": "sc:Canvas",
+          "label": "0030",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0030-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0030.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0030.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0030-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0031-canvas",
+          "@type": "sc:Canvas",
+          "label": "0031",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0031-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0031.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0031.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0031-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0032-canvas",
+          "@type": "sc:Canvas",
+          "label": "0032",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0032-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0032.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0032.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0032-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0033-canvas",
+          "@type": "sc:Canvas",
+          "label": "0033",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0033-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0033.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0033.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0033-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0034-canvas",
+          "@type": "sc:Canvas",
+          "label": "0034",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0034-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0034.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0034.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0034-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0035-canvas",
+          "@type": "sc:Canvas",
+          "label": "0035",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0035-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0035.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0035.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0035-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0036-canvas",
+          "@type": "sc:Canvas",
+          "label": "0036",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0036-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0036.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0036.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0036-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0037-canvas",
+          "@type": "sc:Canvas",
+          "label": "0037",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0037-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0037.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0037.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0037-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0038-canvas",
+          "@type": "sc:Canvas",
+          "label": "0038",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0038-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0038.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0038.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0038-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0039-canvas",
+          "@type": "sc:Canvas",
+          "label": "0039",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0039-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0039.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0039.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0039-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0040-canvas",
+          "@type": "sc:Canvas",
+          "label": "0040",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0040-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0040.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0040.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0040-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0041-canvas",
+          "@type": "sc:Canvas",
+          "label": "0041",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0041-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0041.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0041.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0041-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0042-canvas",
+          "@type": "sc:Canvas",
+          "label": "0042",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0042-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0042.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0042.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0042-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0043-canvas",
+          "@type": "sc:Canvas",
+          "label": "0043",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0043-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0043.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0043.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0043-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0044-canvas",
+          "@type": "sc:Canvas",
+          "label": "0044",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0044-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0044.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0044.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0044-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0045-canvas",
+          "@type": "sc:Canvas",
+          "label": "0045",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0045-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0045.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0045.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0045-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0046-canvas",
+          "@type": "sc:Canvas",
+          "label": "0046",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0046-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0046.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0046.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0046-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0047-canvas",
+          "@type": "sc:Canvas",
+          "label": "0047",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0047-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0047.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0047.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0047-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0048-canvas",
+          "@type": "sc:Canvas",
+          "label": "0048",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0048-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0048.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0048.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0048-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0049-canvas",
+          "@type": "sc:Canvas",
+          "label": "0049",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0049-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0049.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0049.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0049-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0050-canvas",
+          "@type": "sc:Canvas",
+          "label": "0050",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0050-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0050.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0050.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0050-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0051-canvas",
+          "@type": "sc:Canvas",
+          "label": "0051",
+          "width": 2362,
+          "height": 3198,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0051-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0051.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3198,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0051.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0051-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0052-canvas",
+          "@type": "sc:Canvas",
+          "label": "0052",
+          "width": 2362,
+          "height": 3890,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0052-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0052.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3890,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0052.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0052-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0053-canvas",
+          "@type": "sc:Canvas",
+          "label": "0053",
+          "width": 2362,
+          "height": 3890,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0053-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0053.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3890,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0053.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0053-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0054-canvas",
+          "@type": "sc:Canvas",
+          "label": "0054",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0054-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0054.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0054.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0054-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0055-canvas",
+          "@type": "sc:Canvas",
+          "label": "0055",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0055-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0055.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0055.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0055-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0056-canvas",
+          "@type": "sc:Canvas",
+          "label": "0056",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0056-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0056.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0056.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0056-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0057-canvas",
+          "@type": "sc:Canvas",
+          "label": "0057",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0057-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0057.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0057.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0057-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0058-canvas",
+          "@type": "sc:Canvas",
+          "label": "0058",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0058-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0058.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0058.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0058-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0059-canvas",
+          "@type": "sc:Canvas",
+          "label": "0059",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0059-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0059.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0059.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0059-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0060-canvas",
+          "@type": "sc:Canvas",
+          "label": "0060",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0060-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0060.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0060.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0060-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0061-canvas",
+          "@type": "sc:Canvas",
+          "label": "0061",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0061-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0061.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0061.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0061-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0062-canvas",
+          "@type": "sc:Canvas",
+          "label": "0062",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0062-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0062.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0062.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0062-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0063-canvas",
+          "@type": "sc:Canvas",
+          "label": "0063",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0063-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0063.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0063.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0063-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0064-canvas",
+          "@type": "sc:Canvas",
+          "label": "0064",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0064-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0064.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0064.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0064-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0065-canvas",
+          "@type": "sc:Canvas",
+          "label": "0065",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0065-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0065.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0065.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0065-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0066-canvas",
+          "@type": "sc:Canvas",
+          "label": "0066",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0066-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0066.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0066.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0066-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0067-canvas",
+          "@type": "sc:Canvas",
+          "label": "0067",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0067-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0067.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0067.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0067-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0068-canvas",
+          "@type": "sc:Canvas",
+          "label": "0068",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0068-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0068.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0068.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0068-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0069-canvas",
+          "@type": "sc:Canvas",
+          "label": "0069",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0069-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0069.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0069.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0069-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0070-canvas",
+          "@type": "sc:Canvas",
+          "label": "0070",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0070-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0070.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0070.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0070-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0071-canvas",
+          "@type": "sc:Canvas",
+          "label": "0071",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0071-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0071.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0071.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0071-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0072-canvas",
+          "@type": "sc:Canvas",
+          "label": "0072",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0072-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0072.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0072.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0072-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0073-canvas",
+          "@type": "sc:Canvas",
+          "label": "0073",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0073-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0073.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0073.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0073-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0074-canvas",
+          "@type": "sc:Canvas",
+          "label": "0074",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0074-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0074.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0074.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0074-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0075-canvas",
+          "@type": "sc:Canvas",
+          "label": "0075",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0075-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0075.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0075.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0075-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0076-canvas",
+          "@type": "sc:Canvas",
+          "label": "0076",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0076-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0076.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0076.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0076-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0077-canvas",
+          "@type": "sc:Canvas",
+          "label": "0077",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0077-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0077.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0077.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0077-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0078-canvas",
+          "@type": "sc:Canvas",
+          "label": "0078",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0078-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0078.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0078.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0078-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0079-canvas",
+          "@type": "sc:Canvas",
+          "label": "0079",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0079-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0079.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0079.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0079-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0080-canvas",
+          "@type": "sc:Canvas",
+          "label": "0080",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0080-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0080.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0080.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0080-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0081-canvas",
+          "@type": "sc:Canvas",
+          "label": "0081",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0081-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0081.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0081.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0081-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0082-canvas",
+          "@type": "sc:Canvas",
+          "label": "0082",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0082-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0082.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0082.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0082-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0083-canvas",
+          "@type": "sc:Canvas",
+          "label": "0083",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0083-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0083.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0083.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0083-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0084-canvas",
+          "@type": "sc:Canvas",
+          "label": "0084",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0084-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0084.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0084.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0084-canvas"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0085-canvas",
+          "@type": "sc:Canvas",
+          "label": "0085",
+          "width": 2362,
+          "height": 3115,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0085-ocr",
+              "resource": {
+                "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0085.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpg",
+                "width": 2362,
+                "height": 3115,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0085.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dlib2.biblhertz.it/iiif/2/bntorinogv10@0085-canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
