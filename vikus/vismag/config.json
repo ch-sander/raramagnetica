@@ -9,18 +9,18 @@
     "timeline": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwWjXBEoypEp9WZEPuot3Y3A7KzdUmv6GDfNX8iOoWmme9SpUSuTljSrZa8FLin8XQzrtR5mrb7wQw/pub?gid=420161362&single=true&output=csv",
     "items": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwWjXBEoypEp9WZEPuot3Y3A7KzdUmv6GDfNX8iOoWmme9SpUSuTljSrZa8FLin8XQzrtR5mrb7wQw/pub?gid=20586140&single=true&output=csv",
     "tsne": "data/tsne.csv",
-    "textures": {
+ "textures": {
       "medium": {
-        "size": 80,
-        "url": "data/sprites/spritesheet.json"
+        "size": 128,
+        "url": "https://icat.digitaldogsbody.net/static/vikus/sprites/spritesheet.json"
       },
       "detail": {
         "size": 1024,
-        "url": "data/1024/"
+        "url": "https://icat.digitaldogsbody.net/static/vikus/1024/"
       },
       "big": {
         "size": 4096,
-        "url": "data/4096/"
+        "url": "https://icat.digitaldogsbody.net/static/vikus/4096/"
       }
     }
   },
