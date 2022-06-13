@@ -8,7 +8,7 @@
     "info": "https://ch-sander.github.io/raramagnetica/vikus/vismag/info.md",
     "timeline": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwWjXBEoypEp9WZEPuot3Y3A7KzdUmv6GDfNX8iOoWmme9SpUSuTljSrZa8FLin8XQzrtR5mrb7wQw/pub?gid=420161362&single=true&output=csv",
     "items": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwWjXBEoypEp9WZEPuot3Y3A7KzdUmv6GDfNX8iOoWmme9SpUSuTljSrZa8FLin8XQzrtR5mrb7wQw/pub?gid=20586140&single=true&output=csv",
-    "tsne": "data/tsne.csv",
+    "tsne": "https://icat.digitaldogsbody.net/static/vikus/tsne.csv",
  "textures": {
       "medium": {
         "size": 128,
