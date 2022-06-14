@@ -6,9 +6,9 @@ This image database lists all known images related to the investigation or usage
 
 DOI: [https://doi.org/10.48431/res/qk19-bj96/vikus/vismag](https://doi.org/10.48431/res/qk19-bj96/vikus/vismag/)
 
-For more information and bibliography see:
-
 A list of sources included in the current version [here](https://ch-sander.github.io/raramagnetica/vismag_sources.html).
+
+For more information and bibliography see:
 
 Christoph Sander, Magnes: _der Magnetstein und der Magnetismus in den Wissenschaften der Frühen Neuzeit_, Mittellateinische Studien und Texte 53 (Leiden; Boston: Brill, 2020), 295–98, [DOI](https://doi.org/10.1163/9789004419414).
 
@@ -26,7 +26,7 @@ Click on the keywords to narrow the selection of images.
 
 ![time](img/infobar_time_b.svg)
 
-For a better overview all images are arranged based on time ranges of 10 years. The metadata of each image provides a more precise dating.
+For a better overview all images are arranged based on time ranges of 10 years. The metadata of each image provides a more precise dating. Alternatively, switch to similarity mode to arrange images based on image similarity as calculated via the [mobilenet activation logit](https://beta.observablehq.com/@cpietsch/imagenet-activation-logit).
 
 ![time](img/infobar_scroll_b.svg)
 
