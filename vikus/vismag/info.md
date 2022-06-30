@@ -4,7 +4,7 @@
 
 This image database lists all known images related to the investigation or usage of magnetism, magnetic phenomena, and loadstones.
 
-DOI: [https://doi.org/10.48431/res/qk19-bj96/vikus/vismag](https://doi.org/10.48431/res/qk19-bj96/vikus/vismag/)
+DOI: [https://doi.org/10.48431/res/qk19-bj96/vikus/vismag/](https://doi.org/10.48431/res/qk19-bj96/vikus/vismag/)
 
 A list of sources included in the current version [here](https://ch-sander.github.io/raramagnetica/vismag_sources.html).
 
