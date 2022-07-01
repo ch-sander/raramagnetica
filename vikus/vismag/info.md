@@ -10,9 +10,9 @@ A list of sources included in the current version [here](https://ch-sander.githu
 
 For more information and bibliography see:
 
-Christoph Sander, Magnes: _der Magnetstein und der Magnetismus in den Wissenschaften der Frühen Neuzeit_, Mittellateinische Studien und Texte 53 (Leiden; Boston: Brill, 2020), 295–98, [DOI](https://doi.org/10.1163/9789004419414).
+Christoph Sander, Magnes: _Der Magnetstein und der Magnetismus in den Wissenschaften der Frühen Neuzeit_, Mittellateinische Studien und Texte 53 (Leiden; Boston: Brill, 2020), 295–98, [DOI](https://doi.org/10.1163/9789004419414).
 
-This image database currently focusses on printed editions and does not include multiple editions of the same work. This database is frequently updated [last 29.05.2022].
+This image database currently focusses on printed editions and does not include multiple editions of the same work. **This database is frequently updated** [last 30.06.2022].
 
 Each image has precise metadata (click on any item or zoom in) and the full page and transcriptions for most images are given there (see top of the sidebar and external link) as well to see its context.
 
@@ -36,4 +36,4 @@ Use your touchpad or scroll wheel to zoom into the images to see more details. C
 ### Acknowledgments
 See credits [here](https://ch-sander.github.io/raramagnetica/credits.html).
 
-If not indicated otherwise, all images are published under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) license or their use was granted by the holding institution. Currently, not all images have permission to be published here.
+If not indicated otherwise, all images are published under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) license or their use was granted by the holding institution.
