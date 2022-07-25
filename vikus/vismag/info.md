@@ -6,7 +6,7 @@ This image database includes all known images related to the investigation or us
 
 DOI: [https://doi.org/10.48431/res/qk19-bj96/vikus/vismag](https://doi.org/10.48431/res/qk19-bj96/vikus/vismag)
 
-A list of sources included in the current version [here](https://ch-sander.github.io/raramagnetica/vismag_sources.html).
+A list of sources included in the current version [here](../../vismag_sources.html).
 
 For more information and bibliography see:
 
@@ -18,9 +18,9 @@ Each image has precise metadata (click on any item or zoom in) and the full page
 
 ![tags](img/infobar_tags_b.svg)
 
-The keywords represent the most common themes in the images, including their content, their visual styles and the materiality. Keywords marked as '(work)' relate to the entire work the image is contained in. For a full documentation, see [PDF](https://ch-sander.github.io/raramagnetica/docs/tags.pdf) and [HTML](https://ch-sander.github.io/raramagnetica/tags.html).
+The keywords represent the most common themes in the images, including their content, their visual styles and the materiality. Keywords marked as '(work)' relate to the entire work the image is contained in. For a full documentation, see [PDF](../../docs/tags.pdf) and [HTML](../../tags.html).
 
-See statistics for all tags used [here](https://ch-sander.github.io/raramagnetica/vismag_stats.html).
+See statistics for all tags used [here](../../vismag_stats.html).
 
 Click on the keywords to narrow the selection of images.
 
@@ -34,6 +34,6 @@ Use your touchpad or scroll wheel to zoom into the images to see more details. C
 
 
 ### Acknowledgments
-See credits [here](https://ch-sander.github.io/raramagnetica/credits.html).
+See credits [here](../../credits.html).
 
 If not indicated otherwise, all images are published under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) license or their use was granted by the holding institution.

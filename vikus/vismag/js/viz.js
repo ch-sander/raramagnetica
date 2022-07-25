@@ -52,7 +52,7 @@ function init() {
 	timeline = Timeline()
 	ping = utils.ping();
 
-	d3.json("https://ch-sander.github.io/raramagnetica/vikus/vismag/config.json", function (config) {
+	d3.json("../../vikus/vismag/config.json", function (config) {
 
 		utils.initConfig(config)
 

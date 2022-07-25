@@ -5,7 +5,7 @@
     "multiple": true
  },
   "loader": {
-    "info": "https://ch-sander.github.io/raramagnetica/peregrinus/vikus/info.md",
+    "info": "../../peregrinus/vikus/info.md",
     "timeline": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLnr947dw3FneezGbe7uChs8KUlT0qvh3izz6OnKqQ8lo8GqRauugai9XzqcxjCSONn5l5XEm-_Ikg/pub?gid=2045703136&single=true&output=csv",
     "items": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLnr947dw3FneezGbe7uChs8KUlT0qvh3izz6OnKqQ8lo8GqRauugai9XzqcxjCSONn5l5XEm-_Ikg/pub?gid=415601230&single=true&output=csv",
     "tsne": "data/tsne.csv",
