@@ -7,6 +7,10 @@
 body {margin:0; font-size:13px; font-style:normal; line-height:18px; font-family:'Source Sans Pro', sans-serif; background: #F2F2F2; color:#000000;}
 h3 {text-transform:lowercase; font-size:16px;}
 h3::before{content: "_"; color: var(--me-color);}
+a {color:var(--me-color);text-decoration:none;}
+a:hover {text-decoration:underline;}
+h4 {text-transform:lowercase; font-size:12px;}
+h5 {text-transform:lowercase; font-size:14px; margin-top: 6px; font-weight:bold;}
 
 		table {
 		  margin: 0 auto;
