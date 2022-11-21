@@ -12,7 +12,7 @@ For more information and bibliography see:
 
 Christoph Sander, Magnes: _Der Magnetstein und der Magnetismus in den Wissenschaften der Frühen Neuzeit_, Mittellateinische Studien und Texte 53 (Leiden; Boston: Brill, 2020), 295–98, [DOI](https://doi.org/10.1163/9789004419414).
 
-This image database currently is based on printed editions and does not include multiple editions of the same work. **This database is frequently updated** [last 30.06.2022].
+This image database currently is based on printed editions and does not include multiple editions of the same work. **This database is frequently updated** [last 21.11.2022]. Current amount of total images: 1175.
 
 Each image has precise metadata (click on any item or zoom in) and the full page and transcriptions for most images are given there (see top of the sidebar and external link) as well.
 
