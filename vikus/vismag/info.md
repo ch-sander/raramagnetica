@@ -22,6 +22,8 @@ The keywords represent the most common themes in the images, including their con
 
 See statistics for all tags used [here](../../vismag_stats.html).
 
+PNG files of a t-SNE calculation can be downloaded [here](matrix_tsne.png) (graph) and [here](grid_tsne.jpg) (grid)
+
 Click on the keywords to narrow the selection of images.
 
 ![time](img/infobar_time_b.svg)
