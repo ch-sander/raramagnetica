@@ -4,10 +4,22 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "apug557"
+      "Epistolae de magnete et rebus naturalibus"
     ]
   },
   "metadata": [
+    {
+      "label": {
+        "en": [
+          "authors"
+        ]
+      },
+      "value": {
+        "none": [
+          "Athanasius Kircher, and others"
+        ]
+      }
+    },
     {
       "label": {
         "en": [
@@ -23,12 +35,12 @@
     {
       "label": {
         "en": [
-          "place"
+          "date"
         ]
       },
       "value": {
         "none": [
-          "Archivio della Pontificia Università Gregoriana, Rome "
+          "1640-1650"
         ]
       }
     },
@@ -40,6 +52,30 @@
       },
       "value": {
         "none": [
+          "Archivio della Pontificia Università Gregoriana, Rome"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "shelfmark"
+        ]
+      },
+      "value": {
+        "none": [
+          "ms.557, fols. 41r-52r"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "hosted by"
+        ]
+      },
+      "value": {
+        "none": [
           "<span><a href=\"https://www.biblhertz.it\">BHMPI Rome</a></span>"
         ]
       }
@@ -47,12 +83,24 @@
     {
       "label": {
         "en": [
-          "shelf"
+          "part of"
         ]
       },
       "value": {
         "none": [
-          " Archivio della Pontificia Università Gregoriana, Rome, ms.557, fols. 41r-52r "
+          "<span><a href=\"https://ch-sander.github.io/raramagnetica/\">rara magnetica</a> by Christoph Sander</span>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "part of"
+        ]
+      },
+      "value": {
+        "none": [
+          "<span><a href=\"https://gate.unigre.it\">GATE</a> Gregorian Archives Texts Editing</span>"
         ]
       }
     },
@@ -149,7 +197,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "1"
+          "41r"
         ]
       },
       "height": 2077,
@@ -188,7 +236,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "2"
+          "42r"
         ]
       },
       "height": 2077,
@@ -227,7 +275,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "3"
+          "42v"
         ]
       },
       "height": 2077,
@@ -266,7 +314,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "4"
+          "43r"
         ]
       },
       "height": 2077,
@@ -305,7 +353,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "5"
+          "43v"
         ]
       },
       "height": 2077,
@@ -344,7 +392,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "6"
+          "44r"
         ]
       },
       "height": 2077,
@@ -383,7 +431,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "7"
+          "44v"
         ]
       },
       "height": 2077,
@@ -422,7 +470,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "8"
+          "45r"
         ]
       },
       "height": 2077,
@@ -461,7 +509,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "9"
+          "45v"
         ]
       },
       "height": 2077,
@@ -500,7 +548,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "10"
+          "46r"
         ]
       },
       "height": 2077,
@@ -539,7 +587,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "11"
+          "47r"
         ]
       },
       "height": 2077,
@@ -578,7 +626,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "12"
+          "47v"
         ]
       },
       "height": 2077,
@@ -617,7 +665,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "13"
+          "48r"
         ]
       },
       "height": 2077,
@@ -656,7 +704,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "14"
+          "48v"
         ]
       },
       "height": 2077,
@@ -695,7 +743,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "15"
+          "49r"
         ]
       },
       "height": 2077,
@@ -734,7 +782,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "16"
+          "49v"
         ]
       },
       "height": 2077,
@@ -773,7 +821,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "17"
+          "50r"
         ]
       },
       "height": 2077,
@@ -812,7 +860,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "18"
+          "50v"
         ]
       },
       "height": 2077,
@@ -851,7 +899,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "19"
+          "51r"
         ]
       },
       "height": 2077,
@@ -890,7 +938,7 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "20"
+          "52r"
         ]
       },
       "height": 2077,
@@ -1036,6 +1084,169 @@
                 "width": 1539
               },
               "target": "https://dlib2.biblhertz.it/iiif/3/apug557/canvas/p0023"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "id": "https://dlib2.biblhertz.it/iiif/3/apug557/ranges",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Table of Contents"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://dlib2.biblhertz.it/iiif/3/apug557/ranges/1",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Epistolae de magnete et rebus naturalibus"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/apug557/canvas/p0001",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/apug557/ranges/2",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Johann Grothaus to Kircher, Cologne, 1 March 1640 (copy)  "
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/apug557/canvas/p0001",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/apug557/ranges/9",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Johann Konrad Wechtler to Kircher, Vienna, 11 April 1643  "
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/apug557/canvas/p0007",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/apug557/ranges/13",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Robert Moray to Kircher, Ingolstadt, 1 June 1644 (copy)  "
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/apug557/canvas/p0011",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/apug557/ranges/16",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Jean Jacques Markwart to Kircher, Warsaw, 17 September 1644 (copy)"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/apug557/canvas/p0013",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/apug557/ranges/18",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Johannes Wirtlin to Kircher, Konstanz, 8 January 1646"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/apug557/canvas/p0015",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/apug557/ranges/20",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Johannes Ciermans to Kircher, Louvain, 7 March 1640  "
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/apug557/canvas/p0017",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/apug557/ranges/22",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Johann Gans to Kircher, Linz, 11 December 1644 (copy)  "
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/apug557/canvas/p0019",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/apug557/ranges/23",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Balthasar Conrad to Kircher, Prague, 13 January 1646 (copy)  "
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/apug557/canvas/p0020",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://dlib2.biblhertz.it/iiif/3/apug557/ranges/24",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "Barthold Nihus to Kircher, Amsterdam, 31 October 1650 (copy)"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://dlib2.biblhertz.it/iiif/3/apug557/canvas/p0020",
+                  "type": "Canvas"
+                }
+              ]
             }
           ]
         }
