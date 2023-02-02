@@ -157,8 +157,8 @@
   ],
   "viewingDirection": "left-to-right",
   "behavior": [
-    "continuous",
-    "paged"
+    "individuals",
+    "non-paged"
   ],
   "navDate": "2023-01-30T11:26:08.942266172+01:00",
   "rights": "http://creativecommons.org/licenses/by-nc/4.0/",
