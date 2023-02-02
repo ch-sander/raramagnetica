@@ -76,7 +76,31 @@
       },
       "value": {
         "none": [
-          "Abschrift von Kircher, Athanasius: Athanasii Kircheri Fvldensis Bvchonii, E Soc. Iesv Magnes siue De Arte Magnetica. Romae : Scheus, 1641. "
+          "Manuscript copy of Kircher, Athanasius: Athanasii Kircheri Fvldensis Bvchonii, E Soc. Iesv Magnes siue De Arte Magnetica. Romae : Scheus, 1641. "
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "held by"
+        ]
+      },
+      "value": {
+        "none": [
+          "Universitätsbibliothek Augsburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "shelfmark"
+        ]
+      },
+      "value": {
+        "none": [
+          "Cod. II.3.4° 64"
         ]
       }
     },
@@ -91,11 +115,11 @@
           "<a href=\"https://aleph.mpg.de/F/?func=find-a&local_base=kub01&find_code=SIGR&request=Uni%20Augsburg%20UBA-Hss%20Cod.%20II.3.4%C2%B0%2064\">Kubikat </a>"
         ]
       }
-    },
+    },    
     {
       "label": {
         "en": [
-          "held by"
+          "hosted by"
         ]
       },
       "value": {
@@ -107,24 +131,12 @@
     {
       "label": {
         "en": [
-          "shelf"
+          "part of"
         ]
       },
       "value": {
         "none": [
-          "Uni Augsburg UBA-Hss Cod. II.3.4° 64"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "download"
-        ]
-      },
-      "value": {
-        "none": [
-          "<span><a href=\"https://dlib.biblhertz.it/download/pdf/uaugcodii3464.pdf\">PDF</a></span>"
+          "<span><a href=\"https://ch-sander.github.io/raramagnetica/\">rara magnetica</a> by Christoph Sander</span>"
         ]
       }
     }
