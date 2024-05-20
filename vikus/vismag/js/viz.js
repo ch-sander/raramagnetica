@@ -73,15 +73,6 @@ function init() {
 					})
 				}
 
-                if (config.loader.tsne_tags) {
-                    d3.csv(config.loader.tsne_tags, function (tsneTags) {
-                        console.log("Loaded tsne_tags data:", tsneTags);
-                        d3.select(".navi").classed("hide", false);
-                        canvas.addTsneData(tsneTags)
-                    });
-                }
-
-
 				LoaderSprites()
 					.progress(function (textures) {
 						Object.keys(textures).forEach(function (id) {
