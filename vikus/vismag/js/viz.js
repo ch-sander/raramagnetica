@@ -73,6 +73,15 @@ function init() {
 					})
 				}
 
+				// Laden der tags_tsne Daten
+				if (config.loader.tags_tsne) {
+					d3.csv(config.loader.tags_tsne, function (tagsTsne) {
+						console.log("Loading tags_tsne data:", tagsTsne);
+						d3.select(".navi").classed("hide", false);
+						canvas.addTsneData(tagsTsne);
+					});
+				}
+
 				LoaderSprites()
 					.progress(function (textures) {
 						Object.keys(textures).forEach(function (id) {
