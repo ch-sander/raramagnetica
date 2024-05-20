@@ -323,6 +323,7 @@ function Canvas() {
 
   canvas.addTsneData = function (d) {
     console.time("tsne");
+    tsneIndex = {};
     var clean = d.map(function (d) {
       return {
         id: d.id,
