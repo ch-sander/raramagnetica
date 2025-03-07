@@ -1,0 +1,496 @@
+TagCodeA,TagCodeB,DescriptionA,DescriptionB,PMI
+EA,EB,text,abstract elements,0.039786494695448496
+EA,EBA,text,geometric shapes,0.05007925644829282
+EA,MAA,text,integrated in the layout,-0.011116240170466246
+EA,MCA,text,woodcut,-0.00652300368819689
+EAD,EB,words,abstract elements,0.16849953927207886
+EAD,EBA,words,geometric shapes,0.28587080734026094
+EAD,MAA,words,integrated in the layout,-0.25276607037996673
+EAD,MCA,words,woodcut,-0.11960441130973314
+EB,MAA,abstract elements,integrated in the layout,0.002121423552105032
+EB,MCA,abstract elements,woodcut,0.04980978749619437
+EBA,MAA,geometric shapes,integrated in the layout,0.00388145782304256
+EBA,MCA,geometric shapes,woodcut,0.06214069926830145
+MAA,MCA,integrated in the layout,woodcut,0.039533526597348594
+EC,ED,concrete elements,plasticity,0.5270792888221846
+EC,EDA,concrete elements,light/shadow,0.5382467038461138
+EC,MAA,concrete elements,integrated in the layout,0.010268335453827063
+EC,MAB,concrete elements,part of a set,-0.2143127457837383
+EC,MCA,concrete elements,woodcut,-0.045572569207004254
+ECA,ED,physical objects,plasticity,0.5298778555632891
+ECA,EDA,physical objects,light/shadow,0.5447510977570041
+ECA,MAA,physical objects,integrated in the layout,0.019076793071086253
+ECA,MAB,physical objects,part of a set,-0.20785108826247406
+ECA,MCA,physical objects,woodcut,-0.04766927195397989
+ED,MAA,plasticity,integrated in the layout,0.017441908060068057
+ED,MAB,plasticity,part of a set,-0.4772105706464303
+ED,MCA,plasticity,woodcut,-0.06402330216823139
+EDA,MAA,light/shadow,integrated in the layout,0.014348154473994299
+EDA,MAB,light/shadow,part of a set,-0.4632058289249584
+EDA,MCA,light/shadow,woodcut,-0.07122498601974327
+MAA,MAB,integrated in the layout,part of a set,-0.13669551754517428
+MAB,MCA,part of a set,woodcut,0.04367698215970603
+EA,EC,text,concrete elements,-0.023800995120032514
+EA,ECA,text,physical objects,-0.026902454661072814
+EA,ED,text,plasticity,-0.03619126453280536
+EA,EDA,text,light/shadow,-0.03426035796507682
+EA,EDB,text,3d and perspective,-0.02571413031735903
+EA,MAB,text,part of a set,0.06263006727488596
+EAA,EC,letters,concrete elements,0.003032885137416463
+EAA,ECA,letters,physical objects,0.013103454171754443
+EAA,ED,letters,plasticity,0.01169709680906592
+EAA,EDA,letters,light/shadow,0.014601757811694316
+EAA,EDB,letters,3d and perspective,0.008974733269653003
+EAA,MAA,letters,integrated in the layout,0.031916898758590405
+EAA,MAB,letters,part of a set,-0.04344646491712158
+EAA,MCA,letters,woodcut,0.002807128929947106
+EC,EDB,concrete elements,3d and perspective,0.5656547427117977
+ECA,EDB,physical objects,3d and perspective,0.5907503731313626
+EDA,EDB,light/shadow,3d and perspective,0.7167654189823272
+EDB,MAA,3d and perspective,integrated in the layout,-0.007127904823686534
+EDB,MAB,3d and perspective,part of a set,-0.8636235889995685
+EDB,MCA,3d and perspective,woodcut,-0.2010667912479404
+EAA,EAD,letters,words,-0.41938414450702505
+EAA,EAE,letters,phrases,-0.5458649666601756
+EAD,EAE,words,phrases,1.9166859938213006
+EAD,EC,words,concrete elements,-0.08695717740988612
+EAD,ECA,words,physical objects,-0.19766396048877255
+EAD,ED,words,plasticity,-0.2513748503677322
+EAD,EDA,words,light/shadow,-0.21786332789289983
+EAD,MAB,words,part of a set,-1.040327123072943
+EAE,EC,phrases,concrete elements,0.037722305982465176
+EAE,ECA,phrases,physical objects,-0.10791826720580833
+EAE,ED,phrases,plasticity,0.054248635427084864
+EAE,EDA,phrases,light/shadow,0.10524758463075828
+EAE,MAA,phrases,integrated in the layout,-0.391120992821409
+EAE,MAB,phrases,part of a set,-3.1686283808504623
+EAE,MCA,phrases,woodcut,-0.5073885115708252
+EA,EE,text,paratext,0.1017298869638263
+EAA,EE,letters,paratext,-0.04874076458663451
+EAA,EEA,letters,caption,-0.100029993283489
+EAD,EE,words,paratext,1.2211651179524456
+EAD,EEA,words,caption,0.8885897788655746
+EC,EE,concrete elements,paratext,0.5563493095420746
+EC,EEA,concrete elements,caption,0.5480460058108655
+ECA,EE,physical objects,paratext,0.554408526067642
+ECA,EEA,physical objects,caption,0.5817291320671542
+ED,EE,plasticity,paratext,0.6955138131727054
+ED,EEA,plasticity,caption,0.6784402998137641
+EDA,EE,light/shadow,paratext,0.746512762376379
+EDA,EEA,light/shadow,caption,0.7294392490174377
+EE,MAA,paratext,integrated in the layout,-0.7064840378228706
+EE,MAB,paratext,part of a set,0.06658808084356907
+EE,MCA,paratext,woodcut,-2.0994265293721033
+EEA,MAA,caption,integrated in the layout,-0.5328739895727018
+EEA,MAB,caption,part of a set,-0.11398416479825184
+EEA,MCA,caption,woodcut,-2.15714202722839
+EAD,EDB,words,3d and perspective,-0.5284743062488713
+EAE,EDB,phrases,3d and perspective,0.27812940775172434
+EA,ECB,text,persons or human body,-0.0018927441103310794
+EA,MAE,text,title page/frontispiece,0.04283619791025778
+EA,MAG,text,separate page,0.07002102723648829
+EA,MCD,text,movable types,0.1017298869638263
+EAD,EAF,words,sentences,1.5716623650365789
+EAD,ECB,words,persons or human body,0.46984423080916926
+EAD,MAE,words,title page/frontispiece,1.7472339296200334
+EAD,MAG,words,separate page,1.1894562582251074
+EAD,MCD,words,movable types,1.9130428225901142
+EAE,EAF,phrases,sentences,2.811225486313281
+EAE,ECB,phrases,persons or human body,1.3050170970065358
+EAE,MAE,phrases,title page/frontispiece,2.982337402706035
+EAE,MAG,phrases,separate page,1.662059045037766
+EAE,MCD,phrases,movable types,3.2627888616172385
+EAF,EC,sentences,concrete elements,-0.030373649043518865
+EAF,ECA,sentences,physical objects,-0.053274051153597915
+EAF,ECB,sentences,persons or human body,1.918745181954297
+EAF,ED,sentences,plasticity,0.14441476431783337
+EAF,EDA,sentences,light/shadow,0.19541371352150666
+EAF,EDB,sentences,3d and perspective,0.7763802752795498
+EAF,MAE,sentences,title page/frontispiece,3.933100474931367
+EAF,MAG,sentences,separate page,2.5228799919502993
+EAF,MCD,sentences,movable types,3.983432150481512
+EC,MAE,concrete elements,title page/frontispiece,0.11718353937033923
+EC,MAG,concrete elements,separate page,-0.23200751021316915
+EC,MCD,concrete elements,movable types,-0.7873968955509784
+ECA,ECB,physical objects,persons or human body,0.5364419795381931
+ECA,MAE,physical objects,title page/frontispiece,-0.019058335815684682
+ECA,MAG,physical objects,separate page,-0.2549079123232481
+ECA,MCD,physical objects,movable types,-0.7537137692946898
+ECB,ED,persons or human body,plasticity,0.6312536143693215
+ECB,EDA,persons or human body,light/shadow,0.650543703845657
+ECB,EDB,persons or human body,3d and perspective,1.2056316337780943
+ECB,MAE,persons or human body,title page/frontispiece,2.4813398696469986
+ECB,MAG,persons or human body,separate page,0.923562198252073
+ECB,MCD,persons or human body,movable types,1.4247563412806314
+ED,MAE,plasticity,title page/frontispiece,0.1220469512893789
+ED,MAG,plasticity,separate page,-0.11380262521818456
+ED,MCD,plasticity,movable types,-0.6126084821896264
+EDA,MAE,light/shadow,title page/frontispiece,0.17304590049305232
+EDA,MAG,light/shadow,separate page,-0.09195002167402748
+EDA,MCD,light/shadow,movable types,-0.5616095329859528
+EDB,MAE,3d and perspective,title page/frontispiece,0.5919557041421226
+EDB,MAG,3d and perspective,separate page,0.20701462960941208
+EDB,MCD,3d and perspective,movable types,0.07594055713845745
+MAE,MAG,title page/frontispiece,separate page,3.2009518970629367
+MAE,MCD,title page/frontispiece,movable types,4.854149133536546
+MAG,MCD,separate page,movable types,3.29637146214162
+EAA,EB,letters,abstract elements,0.030094498927783694
+EAA,EBA,letters,geometric shapes,0.06457129544654877
+EB,EC,abstract elements,concrete elements,-0.34778197602004074
+EB,ECA,abstract elements,physical objects,-0.36277269649944177
+EB,ED,abstract elements,plasticity,-0.398237724478703
+EB,EDA,abstract elements,light/shadow,-0.41682904746010263
+EBA,EC,geometric shapes,concrete elements,-0.6072139887432269
+EBA,ECA,geometric shapes,physical objects,-0.6303168885785159
+EBA,ED,geometric shapes,plasticity,-0.6506057454314085
+EBA,EDA,geometric shapes,light/shadow,-0.6782637401027333
+EB,EDB,abstract elements,3d and perspective,-0.7237442803720382
+EBA,EDB,geometric shapes,3d and perspective,-1.2913643313562846
+EA,MAC,text,compound of images,0.011532077992247949
+EAA,MAC,letters,compound of images,0.054070040997140856
+EB,MAC,abstract elements,compound of images,0.24894253182739984
+EBA,MAC,geometric shapes,compound of images,0.1932215193745865
+ED,MAC,plasticity,compound of images,0.24507097776266304
+EDA,MAC,light/shadow,compound of images,0.23193958954662103
+MAA,MAC,integrated in the layout,compound of images,-0.07476776840197207
+MAC,MCA,compound of images,woodcut,-0.014537631785589847
+EAE,EB,phrases,abstract elements,-0.052911122896922354
+EAE,EBA,phrases,geometric shapes,-0.116899751333336
+EC,MAC,concrete elements,compound of images,0.19057679811902292
+ECA,MAC,physical objects,compound of images,0.224259924375311
+EAA,ECB,letters,persons or human body,-0.06670731111608343
+EB,ECB,abstract elements,persons or human body,-1.165566023342535
+EBA,ECB,geometric shapes,persons or human body,-1.2893513107405026
+ECB,MAA,persons or human body,integrated in the layout,-0.24801254040933216
+ECB,MCA,persons or human body,woodcut,-0.8073251362242504
+EB,MAB,abstract elements,part of a set,0.024977690672198165
+EBA,MAB,geometric shapes,part of a set,-0.20974314760368248
+EA,ECC,text,scene,0.0462347743721231
+EAD,ECC,words,scene,0.40013525899776514
+ECA,ECC,physical objects,scene,0.6247978539590401
+ECB,ECC,persons or human body,scene,3.2046305269161284
+ECC,ED,scene,plasticity,0.7384224046419965
+ECC,EDA,scene,light/shadow,0.7894213538456701
+ECC,EDB,scene,3d and perspective,1.6631696648315588
+ECC,MAA,scene,integrated in the layout,-0.2802468068020738
+ECC,MCA,scene,woodcut,-1.4350295611565418
+EA,ECD,text,topographical structures,0.06856302302862691
+EAA,ECD,letters,topographical structures,0.013428056499794904
+EB,ECD,abstract elements,topographical structures,0.12341164974354066
+EBA,ECD,geometric shapes,topographical structures,0.2438475924445544
+ECA,ECD,physical objects,topographical structures,0.20976035468019585
+ECD,ED,topographical structures,plasticity,0.5543990358703917
+ECD,EDA,topographical structures,light/shadow,0.5669238372594295
+ECD,MAA,topographical structures,integrated in the layout,-0.39026959412990186
+ECD,MCA,topographical structures,woodcut,-0.20718270972798558
+EAB,EB,numbers,abstract elements,0.23532545557307974
+EAB,EBA,numbers,geometric shapes,0.31197669867972616
+EAB,EC,numbers,concrete elements,-0.19432541792641178
+EAB,ECA,numbers,physical objects,-0.2048098749456918
+EAB,ED,numbers,plasticity,-0.4762525350937743
+EAB,EDA,numbers,light/shadow,-0.4656113235062418
+EAB,MAG,numbers,separate page,1.3189075096803093
+EAB,MCA,numbers,woodcut,-0.1853567081592787
+EB,MAG,abstract elements,separate page,0.014887192965371596
+EBA,MAG,geometric shapes,separate page,-0.005838398131237515
+MAG,MCA,separate page,woodcut,-0.23067106265035514
+EAB,EDB,numbers,3d and perspective,0.026740851078233246
+EAB,MAC,numbers,compound of images,0.05391425080845867
+EDB,MAC,3d and perspective,compound of images,0.8194489971714357
+MAC,MAG,compound of images,separate page,1.215451466758052
+EAB,MAA,numbers,integrated in the layout,-0.26543990041507715
+EAB,EAD,numbers,words,0.47152569375112885
+EA,MAF,text,separate sheet,0.1017298869638263
+EAB,MAF,numbers,separate sheet,1.2618071024497917
+EB,MAF,abstract elements,separate sheet,-0.046513351698771646
+EBA,MAF,geometric shapes,separate sheet,0.025870461596100788
+MAF,MCA,separate sheet,woodcut,-0.8770341080356547
+EAA,EAB,letters,numbers,-0.18974485908242752
+EA,EEB,text,creator signature,0.1017298869638263
+EAB,EAC,numbers,symbols,1.1243035786998568
+EAB,EAE,numbers,phrases,0.6286266548358578
+EAB,EE,numbers,paratext,1.2420438476283615
+EAB,EEB,numbers,creator signature,1.428456971859243
+EAB,MAE,numbers,title page/frontispiece,0.3024490869471375
+EAB,MCD,numbers,movable types,0.6609030578596137
+EAC,EAD,symbols,words,0.6097304058700984
+EAC,EAE,symbols,phrases,1.4042612875701193
+EAC,EB,symbols,abstract elements,0.34205193621888114
+EAC,EBA,symbols,geometric shapes,0.5557915987592946
+EAC,EC,symbols,concrete elements,-0.06096196887694146
+EAC,ECA,symbols,physical objects,-0.02727884262065297
+EAC,ED,symbols,plasticity,-0.31501685431946386
+EAC,EDA,symbols,light/shadow,-0.26401790511579043
+EAC,EDB,symbols,3d and perspective,0.2429480751984756
+EAC,EE,symbols,paratext,0.6097304058700984
+EAC,EEB,symbols,creator signature,-0.39026959412990164
+EAC,MAE,symbols,title page/frontispiece,0.773229138152978
+EAC,MAG,symbols,separate page,1.3529549905079872
+EAC,MCD,symbols,movable types,0.7166456097866105
+EAD,EEB,words,creator signature,0.8061276186736018
+EAE,EE,phrases,paratext,1.4453802748957114
+EAE,EEB,phrases,creator signature,1.1558736577007263
+EB,EE,abstract elements,paratext,-1.5319401788690132
+EB,MAE,abstract elements,title page/frontispiece,-1.7834789458649778
+EB,MCD,abstract elements,movable types,-0.5770280683975513
+EBA,EE,geometric shapes,paratext,-2.2250911119371186
+EBA,EEB,geometric shapes,creator signature,-2.9620567061033243
+EBA,MAE,geometric shapes,title page/frontispiece,-1.7985579738204451
+EBA,MCD,geometric shapes,movable types,-1.8551415021868127
+EC,EEB,concrete elements,creator signature,0.5911147277027516
+ECA,EEB,physical objects,creator signature,0.5723304340649044
+ED,EEB,plasticity,creator signature,0.7659031410641037
+EDA,EEB,light/shadow,creator signature,0.8169020902677772
+EDB,EE,3d and perspective,paratext,1.4284569718592428
+EDB,EEB,3d and perspective,creator signature,1.61288154299667
+EE,MAE,paratext,title page/frontispiece,2.4841995237862395
+EE,MAG,paratext,separate page,1.4524906640589013
+EE,MCD,paratext,movable types,1.1056879005325098
+EEB,MAE,creator signature,title page/frontispiece,2.3321964303411895
+EEB,MAG,creator signature,separate page,1.1894562582251076
+EEB,MCD,creator signature,movable types,1.6906504012536656
+EAB,ECB,numbers,persons or human body,0.3660963059713406
+EAB,MAB,numbers,part of a set,0.9019111573634088
+EAA,MAG,letters,separate page,-0.42509779570141837
+MAB,MAG,part of a set,separate page,0.9353435475653168
+EAB,ECD,numbers,topographical structures,0.40441149789259173
+EAD,ECD,words,topographical structures,1.7390134228150644
+ECD,MAB,topographical structures,part of a set,-0.4859529421852097
+MAA,MAG,integrated in the layout,separate page,-4.0393624322707735
+EAA,EAC,letters,symbols,-0.11585496044517136
+EAC,MCA,symbols,woodcut,-0.4884688201180019
+EAD,MAC,words,compound of images,-1.238266500684852
+EAE,MAC,phrases,compound of images,0.6558000545660834
+EAE,ECC,phrases,scene,0.820270625916288
+EAF,ECC,sentences,scene,1.4705245868891632
+EAF,MCA,sentences,woodcut,-1.1114993616726776
+ECC,MAE,scene,title page/frontispiece,2.1485964920018006
+ECC,MAG,scene,separate page,0.7543175528897546
+MAE,MCA,title page/frontispiece,woodcut,-0.8204505796692874
+ECD,EDB,topographical structures,3d and perspective,0.6388767515296148
+EAA,ECC,letters,scene,0.00797362640768708
+ECC,ECD,scene,topographical structures,2.711532686392958
+EAE,ECD,phrases,topographical structures,2.0062973016502164
+EAA,MAE,letters,title page/frontispiece,-0.5998398134415067
+EAA,MCD,letters,movable types,-1.7719005592278105
+EAA,EAF,letters,sentences,-0.45478948063822383
+MAA,MCD,integrated in the layout,movable types,-1.953205788521059
+MCA,MCD,woodcut,movable types,-3.577473826176747
+ECB,MAC,persons or human body,compound of images,0.4958394393421139
+EB,ECC,abstract elements,scene,-1.4890315873997226
+EBA,ECC,geometric shapes,scene,-1.5606941437215573
+EAB,ECC,numbers,scene,0.7488995388574426
+ECD,MAC,topographical structures,compound of images,-0.3053806965433889
+EAC,MAA,symbols,integrated in the layout,-0.15965666598848519
+EA,MCB,text,intaglio,0.1017298869638263
+EAA,MCB,letters,intaglio,0.1642529587475637
+EAB,MCB,numbers,intaglio,1.3675747297122205
+EAC,MCB,symbols,intaglio,2.3202237886751136
+EAE,MCB,phrases,intaglio,1.9188344603998773
+EB,MCB,abstract elements,intaglio,-0.7283373916725169
+EBA,MCB,geometric shapes,intaglio,-0.836525824019466
+EC,MCB,concrete elements,intaglio,0.5722557004514357
+ECA,MCB,physical objects,intaglio,0.5868300037600194
+ED,MCB,plasticity,intaglio,0.7279352908650829
+EDA,MCB,light/shadow,intaglio,0.7789342400687564
+EDB,MCB,3d and perspective,intaglio,1.5095937345846484
+MAA,MCB,integrated in the layout,intaglio,-0.404075393654932
+EAD,MCB,words,intaglio,0.7092660794210126
+ECB,MCB,persons or human body,intaglio,2.732878636642963
+EAB,EAF,numbers,sentences,0.8467696031709478
+EAC,EAF,symbols,sentences,2.2650822344826524
+EAF,EB,sentences,abstract elements,-0.1985164451438217
+EAF,EBA,sentences,geometric shapes,-0.30670487749077063
+EAF,MAA,sentences,integrated in the layout,-0.7673392432097249
+EAF,MCB,sentences,intaglio,2.6097304058700983
+EA,EBD,text,tabular shapes,0.1017298869638263
+EAA,EBD,letters,tabular shapes,-0.15892368233705764
+EAB,EBD,numbers,tabular shapes,0.6889174340292105
+EAC,EBD,symbols,tabular shapes,0.3296224866773632
+EAF,EBD,sentences,tabular shapes,1.7890541053146602
+EBA,EBD,geometric shapes,tabular shapes,-0.2421646252960598
+EBD,EC,tabular shapes,concrete elements,-0.6889931914899838
+EBD,ECA,tabular shapes,physical objects,-0.8777024865701436
+EBD,ED,tabular shapes,plasticity,-1.321559700186236
+EBD,EDA,tabular shapes,light/shadow,-1.2705607509825623
+EBD,EDB,tabular shapes,3d and perspective,-1.3110825659707896
+EBD,MAA,tabular shapes,integrated in the layout,-0.4657597937141649
+EBD,MCB,tabular shapes,intaglio,0.8441956595071213
+EAD,EBD,words,tabular shapes,1.5260196994808664
+EAC,MAC,symbols,compound of images,0.9576537092904052
+MAC,MCB,compound of images,intaglio,-0.1127356186009929
+EAC,ECD,symbols,topographical structures,-0.04234629070959498
+EAF,ECD,sentences,topographical structures,1.0020478286488583
+ECD,MAG,topographical structures,separate page,0.21545146675805205
+ECD,MCB,topographical structures,intaglio,1.6421518835624755
+MAG,MCB,separate page,intaglio,0.7300246395878102
+MAB,MCB,part of a set,intaglio,-0.29330786424281363
+EAC,MAB,symbols,part of a set,-1.544846631238778
+ECB,ECD,persons or human body,topographical structures,0.6657644407844262
+ECC,MCB,scene,intaglio,3.333021063139228
+EAC,ECB,symbols,persons or human body,0.08080194006327007
+EAF,MAB,sentences,part of a set,-2.670377513322637
+ECB,MAB,persons or human body,part of a set,-1.1993059791294651
+EAC,ECC,symbols,scene,-1.3108351266354967
+EBD,MCA,tabular shapes,woodcut,-0.15714202722839
+EA,EBC,text,musical notation,0.1017298869638263
+EAE,EBC,phrases,musical notation,3.378266079037175
+EBC,MAA,musical notation,integrated in the layout,0.1622714288988771
+EBC,MCA,musical notation,woodcut,-0.4619966087568108
+EAA,EBC,letters,musical notation,-1.2413858425290305
+EAD,EBC,words,musical notation,1.2211651179524456
+EAF,EBC,sentences,musical notation,3.291554445843844
+EBC,EC,musical notation,concrete elements,-0.9938477730184045
+EBC,ECA,musical notation,physical objects,-0.9601646467621161
+EBC,ECD,musical notation,topographical structures,3.1540509220939086
+EBC,ED,musical notation,plasticity,-0.8190593596570527
+EBC,EDA,musical notation,light/shadow,-0.7680604104533792
+EBC,EDB,musical notation,3d and perspective,0.19141777455839346
+EBC,MCB,musical notation,intaglio,2.3466960000363044
+EA,MAD,text,in the margin,0.1017298869638263
+EAC,MAD,symbols,in the margin,2.832122827206547
+EB,MAD,abstract elements,in the margin,-0.046513351698771487
+EBA,MAD,geometric shapes,in the margin,0.26033571523312354
+EC,MAD,concrete elements,in the margin,0.006152226981595494
+ECA,MAD,physical objects,in the margin,0.03983535323788396
+MAD,MCA,in the margin,woodcut,0.12296589196434529
+ECD,MAE,topographical structures,title page/frontispiece,2.0951572330403403
+MAE,MCB,title page/frontispiece,intaglio,0.8727648117038921
+EBD,MAG,tabular shapes,separate page,1.9093483390323724
+EAE,EBD,phrases,tabular shapes,2.098158159844439
+EAE,MAF,phrases,separate sheet,1.4713754834286563
+EBD,MAF,tabular shapes,separate sheet,1.2040916045935042
+EAA,MAF,letters,separate sheet,-0.03975198135938004
+EC,MAF,concrete elements,separate sheet,0.26918663281538896
+ECA,MAF,physical objects,separate sheet,0.1773388769878188
+EA,EBE,text,taxonomic shapes,0.1017298869638263
+EAA,EBE,letters,taxonomic shapes,-0.46377826386547827
+EAB,EBE,numbers,taxonomic shapes,0.5539878539431017
+EBE,MAA,taxonomic shapes,integrated in the layout,-0.6450834931587273
+EBE,MCA,taxonomic shapes,woodcut,-1.0994265293721028
+EC,MCC,concrete elements,drawing,-0.40888527229724864
+ECA,MCC,physical objects,drawing,-0.3752021460409599
+ECB,MCC,persons or human body,drawing,2.5402335587005673
+ED,MCC,plasticity,drawing,-0.23409685893589652
+EDA,MCC,light/shadow,drawing,-0.18309790973222298
+MAA,MCC,integrated in the layout,drawing,0.1622714288988771
+EA,MCC,text,drawing,-0.8982701130361738
+EAA,MCC,letters,drawing,-0.6564233418078742
+EAB,MCC,numbers,drawing,0.7763802752795497
+EAD,MCC,words,drawing,1.8061276186736017
+EB,MCC,abstract elements,drawing,-0.46155085097761545
+EBA,MCC,geometric shapes,drawing,-0.15470178404572052
+EBD,ECB,tabular shapes,persons or human body,-0.5472292825497723
+EAA,MAD,letters,in the margin,-1.2413858425290305
+EAA,EEB,letters,creator signature,0.12118423685567778
+EAD,MAF,words,separate sheet,1.4841995237862395
+ECD,EE,topographical structures,paratext,1.9316585007574605
+ECD,EEB,topographical structures,creator signature,1.5166210014786166
+ECD,MAF,topographical structures,separate sheet,3.1540509220939086
+ED,MAF,plasticity,separate sheet,0.10694005889917049
+EDA,MAF,light/shadow,separate sheet,0.157939008102844
+EE,MAF,paratext,separate sheet,3.221165117952446
+EEB,MAF,creator signature,separate sheet,3.069162024507396
+EEB,MCA,creator signature,woodcut,-3.684389030093259
+EBA,EBE,geometric shapes,taxonomic shapes,-1.9620567061033245
+EBD,ECD,tabular shapes,topographical structures,0.6515505815647255
+EA,MB,text,interactive,0.1017298869638263
+EA,MBA,text,volvelle,0.1017298869638263
+EAD,MB,words,interactive,2.391090119394758
+EAD,MBA,words,volvelle,2.8061276186736017
+EAF,EE,sentences,paratext,1.8061276186736017
+EAF,EEA,sentences,caption,1.7890541053146602
+EAF,MB,sentences,interactive,2.876516946565
+EAF,MBA,sentences,volvelle,4.876516946565
+EB,EEA,abstract elements,caption,-1.5490136922279552
+EB,MB,abstract elements,interactive,0.5384491490223845
+EB,MBA,abstract elements,volvelle,0.5384491490223845
+EBA,EEA,geometric shapes,caption,-2.657202124574904
+EBA,MB,geometric shapes,interactive,0.8452982159542795
+EBA,MBA,geometric shapes,volvelle,0.8452982159542795
+EC,MB,concrete elements,interactive,0.17607722842390755
+EC,MBA,concrete elements,volvelle,0.5911147277027514
+ECA,MB,physical objects,interactive,0.20976035468019613
+ECA,MBA,physical objects,volvelle,0.6247978539590401
+EE,MB,paratext,interactive,2.8061276186736017
+EE,MBA,paratext,volvelle,4.806127618673602
+EEA,MB,caption,interactive,3.110982200202023
+EEA,MBA,caption,volvelle,5.110982200202023
+MAA,MB,integrated in the layout,interactive,-1.8377285711011229
+MAA,MBA,integrated in the layout,volvelle,0.1622714288988771
+MB,MCA,interactive,woodcut,0.12296589196434529
+MBA,MCA,volvelle,woodcut,0.12296589196434529
+ECB,EE,persons or human body,paratext,3.102112446308682
+ECB,EEB,persons or human body,creator signature,3.376734826417688
+ECB,MAF,persons or human body,separate sheet,1.8032679645343612
+EDB,MAF,3d and perspective,separate sheet,0.03941468111334365
+EE,MCB,paratext,intaglio,3.5393410779787002
+EEB,MCB,creator signature,intaglio,3.768159768474581
+MAF,MCB,separate sheet,intaglio,2.931658500757461
+EAB,EEA,numbers,caption,1.3893571521703025
+EEA,MAF,caption,separate sheet,3.204091604593504
+EEA,MCB,caption,intaglio,3.59908316167059
+ECB,EEA,persons or human body,caption,3.15321043559132
+ECC,EE,scene,paratext,3.936188159237975
+ECC,EEA,scene,caption,4.083501463779916
+ECC,EEB,scene,creator signature,4.186731620888572
+ECC,MAF,scene,separate sheet,2.370988913338249
+EDB,EEA,3d and perspective,caption,1.4962723560868145
+EEA,EEB,caption,creator signature,4.625555373031781
+EEA,MAG,caption,separate page,1.1723827448661661
+ECC,MAB,scene,part of a set,-0.4914073722773176
+EEB,MAB,creator signature,part of a set,0.16612375439448349
+EEB,MAA,creator signature,integrated in the layout,-0.6450834931587273
+EAE,EEA,phrases,caption,1.0981581598444392
+MAB,MAF,part of a set,separate sheet,0.5520149080138111
+EAF,EEB,sentences,creator signature,1.0691620245073956
+EAF,MAF,sentences,separate sheet,-0.030373649043518865
+EAC,EEA,symbols,caption,0.3296224866773632
+EE,MAC,paratext,compound of images,-0.23826650068485195
+EEA,MAC,caption,compound of images,0.06658808084356907
+ECD,EEA,topographical structures,caption,1.2365130822858814
+EEA,MAE,caption,title page/frontispiece,1.467126010427298
+MAE,MAF,title page/frontispiece,separate sheet,1.647698256069119
+MAA,MAE,integrated in the layout,title page/frontispiece,-4.4815847608758475
+EAC,EBE,symbols,taxonomic shapes,1.6097304058700983
+EAD,EBE,words,taxonomic shapes,1.5837351973371538
+EAE,EBE,phrases,taxonomic shapes,2.57091115697957
+EAF,EBE,sentences,taxonomic shapes,3.6541245252285517
+EBE,EC,taxonomic shapes,concrete elements,-2.2162401943548526
+EBE,ECA,taxonomic shapes,physical objects,-2.182557068098564
+EBE,ECB,taxonomic shapes,persons or human body,0.7328786366429632
+EBE,ED,taxonomic shapes,plasticity,-2.0414517809935004
+EBE,EDA,taxonomic shapes,light/shadow,-1.9904528317898273
+EBE,EDB,taxonomic shapes,3d and perspective,-1.0309746467780545
+EBE,EE,taxonomic shapes,paratext,1.9987726966159975
+EBE,EEA,taxonomic shapes,caption,2.3036272781444183
+EBE,MAG,taxonomic shapes,separate page,2.4524906640589013
+EBE,MCB,taxonomic shapes,intaglio,1.1243035786998565
+EA,MBB,text,cut out template,0.1017298869638263
+EAA,MB,letters,interactive,-0.07146084108671821
+EAA,MBB,letters,cut out template,0.3435766581921258
+EAB,MB,numbers,interactive,-0.22361972472045036
+EAB,MBB,numbers,cut out template,0.19141777455839346
+EB,MBB,abstract elements,cut out template,0.5384491490223845
+EBA,MBB,geometric shapes,cut out template,0.8452982159542797
+MAB,MB,part of a set,interactive,1.6515505815647256
+MAB,MBB,part of a set,cut out template,2.066588080843569
+MAF,MB,separate sheet,interactive,4.876516946565
+MAF,MBB,separate sheet,cut out template,5.291554445843844
+MBB,MCA,cut out template,woodcut,0.12296589196434529
+EAD,MBB,words,cut out template,2.2211651179524456
+EC,MBB,concrete elements,cut out template,0.006152226981595494
+ECA,MBB,physical objects,cut out template,0.03983535323788396
+ED,MB,plasticity,interactive,-1.2340968589358965
+ED,MBB,plasticity,cut out template,-0.8190593596570527
+EDA,MB,light/shadow,interactive,-1.183097909732223
+EDA,MBB,light/shadow,cut out template,-0.7680604104533792
+EAB,MAD,numbers,in the margin,0.19141777455839346
+EAC,MAF,symbols,separate sheet,-0.489805267680816
+EBD,EE,tabular shapes,paratext,0.7186647774232621
+EBD,EEA,tabular shapes,caption,1.0235193589516831
+EBE,MCD,taxonomic shapes,movable types,5.275612901974822
+MAC,MAE,compound of images,title page/frontispiece,0.5101947323191841
+EBD,MAC,tabular shapes,compound of images,1.066588080843569
+EBD,MCD,tabular shapes,movable types,2.4105424820609307
+MAC,MCD,compound of images,movable types,1.4536112039528164
