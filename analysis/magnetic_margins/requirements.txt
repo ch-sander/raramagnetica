@@ -1,0 +1,10 @@
+umap
+pandas
+scipy
+matplotlib
+datashader
+bokeh
+holoviews
+umap-learn[plot]
+ipywidgets
+openpyxl
