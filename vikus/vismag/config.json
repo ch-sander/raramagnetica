@@ -13,15 +13,15 @@
  "textures": {
       "medium": {
         "size": 128,
-        "url": "https://icat.digitaldogsbody.net/static/vikus/sprites/spritesheet.json"
+        "url": "http://c102-054.cloud.gwdg.de/icat-data/vikus/images/output/sprites/spritesheet.json"
       },
       "detail": {
         "size": 1024,
-        "url": "https://icat.digitaldogsbody.net/static/vikus/1024/"
+        "url": "http://c102-054.cloud.gwdg.de/icat-data/vikus/images/output/1024/"
       },
       "big": {
         "size": 4096,
-        "url": "https://icat.digitaldogsbody.net/static/vikus/4096/"
+        "url": "http://c102-054.cloud.gwdg.de/icat-data/vikus/images/output/4096/"
       }
     }
   },
