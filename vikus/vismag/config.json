@@ -6,8 +6,10 @@
  },
   "loader": {
     "info": "../../vikus/vismag/info.md",
-    "timeline": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwWjXBEoypEp9WZEPuot3Y3A7KzdUmv6GDfNX8iOoWmme9SpUSuTljSrZa8FLin8XQzrtR5mrb7wQw/pub?gid=420161362&single=true&output=csv",
-    "items": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwWjXBEoypEp9WZEPuot3Y3A7KzdUmv6GDfNX8iOoWmme9SpUSuTljSrZa8FLin8XQzrtR5mrb7wQw/pub?gid=20586140&single=true&output=csv",
+    "timeline_remote": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwWjXBEoypEp9WZEPuot3Y3A7KzdUmv6GDfNX8iOoWmme9SpUSuTljSrZa8FLin8XQzrtR5mrb7wQw/pub?gid=420161362&single=true&output=csv",
+    "timeline": "https://raw.githubusercontent.com/ch-sander/raramagnetica/main/vikus/vismag/timeline.csv",
+    "items_remote": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwWjXBEoypEp9WZEPuot3Y3A7KzdUmv6GDfNX8iOoWmme9SpUSuTljSrZa8FLin8XQzrtR5mrb7wQw/pub?gid=20586140&single=true&output=csv",
+    "items": "https://raw.githubusercontent.com/ch-sander/raramagnetica/main/vikus/vismag/items.csv",
     "tsne_tags": "https://raw.githubusercontent.com/ch-sander/raramagnetica/main/vikus/vismag/tsne_tags.csv",
 	  "tsne": "https://raw.githubusercontent.com/ch-sander/raramagnetica/main/vikus/vismag/tsne.csv",
  "textures": {
