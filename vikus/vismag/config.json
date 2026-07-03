@@ -15,15 +15,15 @@
  "textures": {
       "medium": {
         "size": 128,
-        "url": "https://magnetic-margins.com/magnetica/vikus/vismag/sprites/spritesheet.json"
+        "url": "https://files.raramagnetica.de/vikus/vismag/sprites/spritesheet.json"
       },
       "detail": {
         "size": 1024,
-        "url": "https://magnetic-margins.com/magnetica/vikus/vismag/1024/"
+        "url": "https://files.raramagnetica.de/vikus/vismag/1024/"
       },
       "big": {
         "size": 4096,
-        "url": "https://magnetic-margins.com/magnetica/vikus/vismag/4096/"
+        "url": "https://files.raramagnetica.devikus/vismag/4096/"
       }
     }
   },
